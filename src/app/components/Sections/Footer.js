@@ -37,20 +37,20 @@ export default function Footer() {
         </div>
         <div className='w-full lg:w-1/4 flex flex-col gap-3 items-center lg:items-start'>
           <h2 className='text-xl font-bold uppercase '>Categories</h2>
-          <Link href='#' className='underline-animation-white w-max'>
+          <Link href='/products/chandelier' className='underline-animation-white w-max'>
             Chandelier
           </Link>
-          <Link href='#' className='underline-animation-white w-max'>
+          <Link href='/products/wallLights' className='underline-animation-white w-max'>
             Wall Light
           </Link>
-          <Link href='#' className='underline-animation-white w-max'>
-            Pendant
+          <Link href='/products/outdoorWallLight' className='underline-animation-white w-max'>
+            Outdoor Lights
           </Link>
-          <Link href='#' className='underline-animation-white w-max'>
-            Ceiling
+          <Link href='/products/ceilingLight' className='underline-animation-white w-max'>
+            Ceiling Light
           </Link>
-          <Link href='#' className='underline-animation-white w-max'>
-            Outdoor
+          <Link href='/products/vanityLight' className='underline-animation-white w-max'>
+            Vanity Lights
           </Link>
         </div>
         <div className='w-full lg:w-1/4 flex flex-col gap-3 items-center lg:items-start'>

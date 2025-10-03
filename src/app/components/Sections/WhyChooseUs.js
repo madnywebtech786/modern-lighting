@@ -6,9 +6,9 @@ export default function WhyChooseUs() {
   return (
     <div className='flex flex-col px-4 md:px-8 lg:px-12 2xl:px-20 py-10'>
       <div className='flex flex-col gap-0 text-center' data-aos="zoom-out-up">
-        <h2 className='text-base text-primary'>Why Choose US</h2>
+        <h2 className='text-base text-primary'>Why MOD Calgary!!</h2>
         <SectionDivider />
-        <h3 className='text-3xl lg:text-4xl font-bold'>Why Choose MOD Lights</h3>
+        <h3 className='text-3xl lg:text-4xl font-bold'>Modern Lights Calgary</h3>
       </div>
 
       <div className='flex gap-8 mt-12 flex-col lg:flex-row'>
@@ -22,11 +22,9 @@ export default function WhyChooseUs() {
               className='w-24 md:w-10 lg:w-20'
             />
             <div className='flex flex-col gap-2'>
-              <h3 className='text-lg lg:text-2xl font-bold'>Modern Design</h3>
+              <h3 className='text-lg lg:text-2xl font-bold'>Sleek Modern!</h3>
               <p className='text-sm'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Eligendi libero molestiae suscipit. Quisquam quibusdam
-                perspiciatis
+                Premium modern lighting for Calgary homes chandeliers, ceiling lights, island lights, wall lights. Energy-efficient LED fixtures, installation and service
               </p>
             </div>
           </div>
@@ -40,11 +38,9 @@ export default function WhyChooseUs() {
               className='w-24 md:w-10 lg:w-20'
             />
             <div className='flex flex-col gap-2'>
-              <h3 className='text-lg lg:text-2xl font-bold'>Best Quality</h3>
+              <h3 className='text-lg lg:text-2xl font-bold'>Top Quality!</h3>
               <p className='text-sm'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Eligendi libero molestiae suscipit. Quisquam quibusdam
-                perspiciatis
+                Durable, certified fixtures with manufacturer warranty ceiling lights, vanity lights and outdoor wall lights. Professional advice, fast delivery Calgary. 
               </p>
             </div>
           </div>
@@ -58,11 +54,9 @@ export default function WhyChooseUs() {
               className='w-24 md:w-10 lg:w-20'
             />
             <div className='flex flex-col gap-2'>
-              <h3 className='text-lg lg:text-2xl font-bold'>Best Price</h3>
+              <h3 className='text-lg lg:text-2xl font-bold'>Low Price!</h3>
               <p className='text-sm'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Eligendi libero molestiae suscipit. Quisquam quibusdam
-                perspiciatis
+                Competitive pricing and bulk discounts for Calgary homes & contractors chandeliers, ceiling lights, island lights. Free quotes, pickup and fast shipping.
               </p>
             </div>
           </div>

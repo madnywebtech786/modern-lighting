@@ -26,10 +26,10 @@ const StatsSection = () => {
   }, []);
 
   const stats = [
-    { value: 8000, label: "Creators on the platform", symbol: "+" ,animation:'fade-up'},
-    { value: 3, label: "Flat platform fee", symbol: "%" ,animation:'fade-down'},
-    { value: 99.9, label: "Uptime guarantee", symbol: "%",animation:'fade-up' },
-    { value: 70, label: "Paid out to creators", symbol: "M", prefix: "$" ,animation:'fade-down'},
+    { value: 8000, label: "Lights sold in Calgary", symbol: "+", animation: 'fade-up' },
+    { value: 15, label: "Years serving Calgary", symbol: "+", animation: 'fade-down' },
+    { value: 99.9, label: "Customer satisfaction", symbol: "%", animation: 'fade-up' },
+    { value: 12000, label: "Total installations", symbol: "+", animation: 'fade-down' },
   ];
 
   return (
@@ -45,7 +45,7 @@ const StatsSection = () => {
               index === 0 ? "rounded-tl-xl rounded-bl-xl" : ""
             } ${index === stats.length - 1 ? "rounded-tr-xl rounded-br-xl" : ""}`}
             data-aos={stat.animation}
-            data-aos-delay={index*100}
+            data-aos-delay={index * 100}
           >
             <h3 className="text-4xl font-bold text-white">
               {stat.prefix || ""}

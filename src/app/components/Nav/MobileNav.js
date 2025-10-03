@@ -164,6 +164,57 @@ export default function MobileNav() {
                   </Link>
                 </div>
               </Accordion>
+                   <Accordion
+                title={'Shop By Type'}
+                className='py-3 text-sm'
+                isNav
+              >
+                <div className='flex flex-col bg-primaryLight text-sm'>
+                  <Link
+                    href='/products/chandelier'
+                    className='block px-4 py-3 hover:bg-gray-300'
+                    onClick={closeMobileNav}
+                  >
+                    Modern Chandelier
+                  </Link>
+                  <Link
+                    href='/products/wallLights'
+                    className='block px-4 py-3 hover:bg-gray-300'
+                    onClick={closeMobileNav}
+                  >
+                    Wall Light
+                  </Link>
+                  <Link
+                    href='/products/ceilingLight'
+                    className='block px-4 py-3 hover:bg-gray-300'
+                    onClick={closeMobileNav}
+                  >
+                    Ceiling Light
+                  </Link>
+                  <Link
+                    href='/products/islandLights'
+                    className='block px-4 py-3 hover:bg-gray-300'
+                    onClick={closeMobileNav}
+                  >
+                    Pendant Light
+                  </Link>
+
+                    <Link
+                    href='/products/outdoorWallLight'
+                    className='block px-4 py-3 hover:bg-gray-300'
+                    onClick={closeMobileNav}
+                  >
+                    Outdoor Light
+                  </Link>
+                    <Link
+                    href='/products/vanityLight'
+                    className='block px-4 py-3 hover:bg-gray-300'
+                    onClick={closeMobileNav}
+                  >
+                    Vanity Light
+                  </Link>
+                </div>
+              </Accordion>
               {/* Add the rest of your Accordions with similar onClick handlers */}
             </div>
           </div>

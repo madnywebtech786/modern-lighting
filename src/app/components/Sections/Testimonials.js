@@ -12,12 +12,38 @@ import { useState } from 'react';
 export default function Testimonials() {
   const [swiper, setSwiper] = useState(undefined);
 
+  // Testimonials data passed into TestimonialCard
+  const testimonials = [
+    {
+      name: 'Alyssa M.',
+      designation: 'Homeowner SW - Calgary',
+      avatar: '/images/client1.jpg',
+      rating: 5,
+      text: 'Amazing selection of modern chandeliers and ceiling lights. Professional installation and friendly staff highly recommended!',
+    },
+    {
+      name: 'Jason K.',
+      designation: 'Interior Designer - Calgary',
+      avatar: '/images/client1.jpg',
+      rating: 5,
+      text: 'Great quality and timely delivery. We fitted multiple projects with their island lights and vanity lighting excellent results.',
+    },
+    {
+      name: 'Sofia R.',
+      designation: 'Restaurant Owner - Downtown',
+      avatar: '/images/client1.jpg',
+      rating: 5,
+      text: 'Patio string lights and outdoor wall lights transformed our patio durable and stylish. Customer support was top-notch.',
+    },
+    // add more testimonial objects here as needed
+  ];
+
   return (
     <div className='mx-4 md:mx-8 lg:mx-12 xl:mx-20  py-10  relative '>
       <div className='testimonials z-10 h-2/3 w-full absolute top-0'></div>
       <div className='flex flex-col w-full lg:w-2/3 mx-auto px-4 lg:px-0 py-10 relative z-20 text-white'>
         <h2 data-aos='fade-right' data-aos-delay='100'>
-          Clients Testimonials
+          Calgary Testimonials
         </h2>
         <div className='flex justify-between my-4 gap-4 lg:gap-0 lg:items-center flex-col lg:flex-row'>
           <h3
@@ -25,7 +51,7 @@ export default function Testimonials() {
             data-aos='zoom-in'
             data-aos-delay='200'
           >
-            see what our client <br /> says about us
+            see what our Calgary <br /> love our work
           </h3>
 
           <div className='flex gap-4'>
@@ -33,26 +59,28 @@ export default function Testimonials() {
               className='p-4 bg-white rounded-lg lg:h-max w-16 h-16'
               data-aos='fade-left'
               data-aos-delay='200'
+              type='button'
+              onClick={() => swiper && swiper.slidePrev()}
             >
               <Image
                 src={'/images/icons/ArrowSlideLeft.svg'}
-                alt='testimonial'
+                alt='prev'
                 width={25}
                 height={25}
-                onClick={() => swiper.slidePrev()}
               />
             </button>
             <button
               className='p-4 bg-white rounded-lg lg:h-max w-16 h-16'
               data-aos='fade-right'
               data-aos-delay='200'
+              type='button'
+              onClick={() => swiper && swiper.slideNext()}
             >
               <Image
                 src={'/images/icons/ArrowSlideRight.svg'}
-                alt='testimonial'
+                alt='next'
                 width={25}
                 height={25}
-                onClick={() => swiper.slideNext()}
               />
             </button>
           </div>
@@ -69,25 +97,15 @@ export default function Testimonials() {
             loop={true}
             className='!p-3'
             breakpoints={{
-              // For screens >= 640px (Tablet)
-              640: {
-                slidesPerView: 2, // Show 4 slides on tablet
-              },
-              // For screens >= 1024px (Laptop and above)
-              1024: {
-                slidesPerView: 2, // Show 7 slides on laptop and above
-              },
+              640: { slidesPerView: 2 },
+              1024: { slidesPerView: 2 },
             }}
           >
-            <SwiperSlide>
-              <TestimonialCard />
-            </SwiperSlide>
-            <SwiperSlide>
-              <TestimonialCard />
-            </SwiperSlide>
-            <SwiperSlide>
-              <TestimonialCard />
-            </SwiperSlide>
+            {testimonials.map((t, idx) => (
+              <SwiperSlide key={idx}>
+                <TestimonialCard testimonial={t} />
+              </SwiperSlide>
+            ))}
           </Swiper>
         </div>
       </div>
