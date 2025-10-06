@@ -15,7 +15,7 @@ export default function NavBar() {
     },
     {
       name: "About Us",
-      link: "/about",
+      link: "/about-us",
     },
     {
       name: "Our Products",
@@ -25,10 +25,10 @@ export default function NavBar() {
     //   name: "FAQs",
     //   link: "/faqs",
     // },
-    {
-      name: "Gallery",
-      link: "/gallery",
-    },
+    // {
+    //   name: "Gallery",
+    //   link: "/gallery",
+    // },
     {
       name: "Contact Us",
       link: "/contact-us",
@@ -192,8 +192,8 @@ export default function NavBar() {
             </div>
           </div> */}
           <div className="flex gap-10 justify-center w-full ">
-            {navLinks.map((link) => (
-              <Link href={link.link} className="underline-animation text-lg font-semibold">{link.name}</Link>
+            {navLinks.map((link,index) => (
+              <Link key={index+"link"} href={link.link} className="underline-animation text-lg font-semibold">{link.name}</Link>
             ))}
           </div>
         </div>

@@ -48,7 +48,9 @@ export default function InfoTopBar() {
       </div>
       <div className="hidden lg:block lg:w-1/12">
         <div className="flex gap-2">
+          <Link href={'/contact-us'}>
           <button className="bg-primary p-3 px-4 rounded-md">Contact Us</button>
+          </Link>
         </div>
       </div>
     </div>

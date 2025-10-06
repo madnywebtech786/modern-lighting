@@ -14,7 +14,7 @@ export default function MobileNav() {
     },
     {
       name: "About Us",
-      link: "/about",
+      link: "/about-us",
     },
     {
       name: "Our Products",
@@ -24,10 +24,10 @@ export default function MobileNav() {
     //   name: "FAQs",
     //   link: "/faqs",
     // },
-    {
-      name: "Gallery",
-      link: "/gallery",
-    },
+    // {
+    //   name: "Gallery",
+    //   link: "/gallery",
+    // },
     {
       name: "Contact Us",
       link: "/contact-us",
@@ -88,8 +88,9 @@ export default function MobileNav() {
 
         {/* Mobile Links */}
         <div className="flex flex-col items-center text-black px-4">
-          {navLinks.map((link) => (
+          {navLinks.map((link,index) => (
             <Link
+            key={index+"link"}
               href={link.link}
               className="text-base font-medium border-b w-full text-start py-2"
               onClick={closeMobileNav} // Close the mobile nav when clicked
