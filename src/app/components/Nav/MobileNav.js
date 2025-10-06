@@ -52,13 +52,22 @@ export default function MobileNav() {
 
   return (
     <>
-      <div className="flex justify-between items-center px-4 w-full">
-        <Image
-          src={"/images/logo.svg"}
-          alt="modern-lighting logo"
-          width={80}
-          height={80}
-        />
+      <div className="flex justify-between items-center px-4 w-full dark:text-black">
+        <div className="flex gap-5">
+          <Image
+            src={"/images/logo.svg"}
+            alt="modern-lighting logo"
+            width={80}
+            height={80}
+          />
+          <Image
+            src={"/images/new-logo.png"}
+            width={200}
+            height={50}
+            alt="modern lighting text"
+          />
+        </div>
+
         {/* Mobile Toggle Button */}
         <div className="xl:hidden">
           <button onClick={toggleMobileNav}>
@@ -81,6 +90,7 @@ export default function MobileNav() {
             width={80}
             height={80}
           />
+
           <button onClick={toggleMobileNav} className="text-3xl text-black">
             &times;
           </button>
@@ -88,9 +98,9 @@ export default function MobileNav() {
 
         {/* Mobile Links */}
         <div className="flex flex-col items-center text-black px-4">
-          {navLinks.map((link,index) => (
+          {navLinks.map((link, index) => (
             <Link
-            key={index+"link"}
+              key={index + "link"}
               href={link.link}
               className="text-base font-medium border-b w-full text-start py-2"
               onClick={closeMobileNav} // Close the mobile nav when clicked

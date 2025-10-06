@@ -458,17 +458,6 @@ export const products = {
     tag: "New Arrivals",
     addDate: "09/29/2025",
   },
-  6: {
-    name: "W14145 2",
-    description: "Product 6 - W14145 2",
-    images: [
-      "/images/lights/wall-lights/W14145 2.jpg",
-      "/images/lights/wall-lights/W14145 2.jpg",
-      "/images/lights/wall-lights/W14145 2.jpg",
-    ],
-    tag: "New Arrivals",
-    addDate: "09/29/2025",
-  },
   7: {
     name: "W14145",
     description: "Product 7 - W14145",
@@ -550,9 +539,9 @@ export const products = {
     name: "LPC8150-23",
     description: "Product 14 - LPC8150-23",
     images: [
-      "/images/lights/dinning-lights/LPC8150-23.jpg",
-      "/images/lights/dinning-lights/LPC8150-23.jpg",
-      "/images/lights/dinning-lights/LPC8150-23.jpg",
+      "/images/lights/chandelier/LPC8150-23.jpg",
+      "/images/lights/chandelier/LPC8150-23.jpg",
+      "/images/lights/chandelier/LPC8150-23.jpg",
     ],
     tag: "New Arrivals",
     addDate: "09/29/2025",
@@ -1276,9 +1265,9 @@ export const products = {
     name: "BC84004-6 GD D860 H500 MaxH1200",
     description: "Product 80 - BC84004-6 GD D860 H500 MaxH1200",
     images: [
-      "/images/lights/chandelier/BC84004-6 GD D860 H500 MaxH1200.jpg",
-      "/images/lights/chandelier/BC84004-6 GD D860 H500 MaxH1200.jpg",
-      "/images/lights/chandelier/BC84004-6 GD D860 H500 MaxH1200.jpg",
+      "/images/lights/chandelier/BC84004-6GDD860H500MaxH1200.jpg",
+      "/images/lights/chandelier/BC84004-6GDD860H500MaxH1200.jpg",
+      "/images/lights/chandelier/BC84004-6GDD860H500MaxH1200.jpg",
     ],
     tag: "New Arrivals",
     addDate: "09/29/2025",
@@ -1287,9 +1276,9 @@ export const products = {
     name: "BC84004-8+4 D860 H500 MaxH1200",
     description: "Product 81 - BC84004-8+4 D860 H500 MaxH1200",
     images: [
-      "/images/lights/chandelier/BC84004-8+4 D860 H500 MaxH1200.jpg",
-      "/images/lights/chandelier/BC84004-8+4 D860 H500 MaxH1200.jpg",
-      "/images/lights/chandelier/BC84004-8+4 D860 H500 MaxH1200.jpg",
+      "/images/lights/chandelier/BC84004-8+4D860H500MaxH1200.jpg",
+      "/images/lights/chandelier/BC84004-8+4D860H500MaxH1200.jpg",
+      "/images/lights/chandelier/BC84004-8+4D860H500MaxH1200.jpg",
     ],
     tag: "New Arrivals",
     addDate: "09/29/2025",
@@ -1420,9 +1409,9 @@ export const products = {
     description:
       "Product 93 - CB8693-3 (D800+D600+D400mm) H1200mm LED 87w 2835 led, materails Aluminum+ACrylic",
     images: [
-      "/images/lights/chandelier/CB8693-3 (D800+D600+D400mm) H1200mm LED 87w 2835 led, materails Aluminum+ACrylic .JPG",
-      "/images/lights/chandelier/CB8693-3 (D800+D600+D400mm) H1200mm LED 87w 2835 led, materails Aluminum+ACrylic .JPG",
-      "/images/lights/chandelier/CB8693-3 (D800+D600+D400mm) H1200mm LED 87w 2835 led, materails Aluminum+ACrylic .JPG",
+      "/images/lights/chandelier/CB8693-3(D800+D600+D400mm)H1200mmLED87w2835led,materailsAluminu+ACrylic.JPG",
+      "/images/lights/chandelier/CB8693-3(D800+D600+D400mm)H1200mmLED87w2835led,materailsAluminu+ACrylic.JPG",
+      "/images/lights/chandelier/CB8693-3(D800+D600+D400mm)H1200mmLED87w2835led,materailsAluminu+ACrylic.JPG",
     ],
     tag: "New Arrivals",
     addDate: "09/29/2025",
@@ -1432,9 +1421,9 @@ export const products = {
     description:
       "Product 94 - CB8693-5(D800+D700+D600+D500+D400) LED 97w 2835 led, materails Aluminum+ACrylic",
     images: [
-      "/images/lights/chandelier/CB8693-5(D800+D700+D600+D500+D400) LED 97w 2835 led, materails Aluminum+ACrylic .JPG",
-      "/images/lights/chandelier/CB8693-5(D800+D700+D600+D500+D400) LED 97w 2835 led, materails Aluminum+ACrylic .JPG",
-      "/images/lights/chandelier/CB8693-5(D800+D700+D600+D500+D400) LED 97w 2835 led, materails Aluminum+ACrylic .JPG",
+      "/images/lights/chandelier/CB8693-5(D800+D700+D600+D500+D400)LED97w2835led,materailsAluminu+ACrylic.JPG",
+      "/images/lights/chandelier/CB8693-5(D800+D700+D600+D500+D400)LED97w2835led,materailsAluminu+ACrylic.JPG",
+      "/images/lights/chandelier/CB8693-5(D800+D700+D600+D500+D400)LED97w2835led,materailsAluminu+ACrylic.JPG",
     ],
     tag: "New Arrivals",
     addDate: "09/29/2025",
@@ -1627,17 +1616,6 @@ export const products = {
     tag: "New Arrivals",
     addDate: "09/29/2025",
   },
-  113: {
-    name: "LPD17530-7 2",
-    description: "Product 113 - LPD17530-7 2",
-    images: [
-      "/images/lights/chandelier/LPD17530-7 2.jpg",
-      "/images/lights/chandelier/LPD17530-7 2.jpg",
-      "/images/lights/chandelier/LPD17530-7 2.jpg",
-    ],
-    tag: "New Arrivals",
-    addDate: "09/29/2025",
-  },
   114: {
     name: "LPD17530-7",
     description: "Product 114 - LPD17530-7",
@@ -1654,19 +1632,17 @@ export const products = {
 export const categoriesData = {
   ceilingLight: [1, 2, 5],
   chandelier: [
-    8, 10, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 80, 81, 84, 88, 89, 91, 92,
-    93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 110, 111, 112,
-    113, 114,
+    8, 10, 14, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 80, 81, 84, 88, 89, 91,
+    92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 110, 111, 112,
+    114,
   ],
-  dinningLights: [9, 11, 12, 14, 15, 82, 83, 86, 87, 90],
+  diningLights: [9, 11, 12, 15, 82, 83, 86, 87, 90],
   outdoorWallLight: [16, 17, 18, 19],
   vanityLight: [
     23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41,
     42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53,
   ],
-  wallLights: [
-    6, 7, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68,
-  ],
+  wallLights: [7, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68],
   landScapeLights: [20, 21, 22],
   singlePendantLights: [3, 4, 13, 79, 85, 106, 107, 109],
 };

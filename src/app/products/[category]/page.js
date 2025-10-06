@@ -146,14 +146,14 @@ export default function ProductCategoryPage({ params }) {
     <>
       <div>
         {/* Header */}
-        <div className="w-full promo1 py-20 md:py-28 lg:py-40 flex items-center justify-center">
+        <div className="w-full promo1 py-20 md:py-28 lg:py-40 flex items-center justify-center bg-white dark:bg-white">
           <h1 className="text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-bold text-white text-center capitalize">
             {category}
           </h1>
         </div>
 
         {/* Content */}
-        <div className="flex gap-4 my-10 mx-2 flex-col xl:flex-row">
+        <div className="flex gap-4 my-10 mx-2 flex-col xl:flex-row bg-white dark:bg-white">
           {/* Sidebar */}
           <div className="w-1/5 p-5 bg-gray-50 rounded-lg filter-bar h-auto max-h-[400px] overflow-x-hidden filter-sidebar hidden xl:block">
             <div className="flex justify-between">
@@ -174,7 +174,7 @@ export default function ProductCategoryPage({ params }) {
               </button>
             </div>
 
-            <div className="flex flex-col gap-2 mt-5">
+            <div className="flex flex-col gap-2 mt-5 dark:text-black">
               <div className="flex flex-col gap-1 text-base">
                 <Link
                   href="/products/ceilingLight"
@@ -189,10 +189,10 @@ export default function ProductCategoryPage({ params }) {
                   Chandelier
                 </Link>
                 <Link
-                  href="/products/dinningLights"
+                  href="/products/diningLights"
                   className="underline-animation w-max"
                 >
-                  Dinning Lights
+                  Dining Lights
                 </Link>
                 <Link
                   href="/products/outdoorWallLight"
@@ -300,7 +300,7 @@ export default function ProductCategoryPage({ params }) {
             </div>
           </div>
           {/* Category Accordion for mobile */}
-          <div className="p-5 bg-gray-50 rounded-lg block xl:hidden mx-4 ">
+          <div className="p-5 bg-gray-50 rounded-lg block xl:hidden mx-4 dark:text-black">
             <Accordion title={"Categories"}>
               <div className="flex flex-col gap-2 mt-5">
                 {/* <Accordion
@@ -389,10 +389,10 @@ export default function ProductCategoryPage({ params }) {
                     Chandelier
                   </Link>
                   <Link
-                    href="/products/dinningLights"
+                    href="/products/diningLights"
                     className="underline-animation w-max"
                   >
-                    Dinning Lights
+                    Dining Lights
                   </Link>
                   <Link
                     href="/products/outdoorWallLight"

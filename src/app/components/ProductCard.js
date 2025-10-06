@@ -35,7 +35,7 @@ export default function ProductCard({ product, className = '' }) {
         )}
       </div>
 
-      <div className='w-full h-1/5 bg-white'>
+      <div className='w-full h-1/5 bg-white dark:text-black'>
         <h2 className='hover:text-primary duration-100 text-base md:text-lg lg:text-xl font-semibold'>
           {product?.name}
         </h2>

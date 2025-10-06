@@ -36,7 +36,7 @@ export default function Header() {
               <h3 className="text-4xl md:text-5xl xl:text-7xl font-bold text-primary leading-snug">
                 Modern Chandelier <br /> near Calgary
               </h3>
-              <Link href={"/products/all"} className="w-max">
+              <Link href={"/products/all"} className="w-max dark:text-black" >
                 <button className="bg-white rounded-full p-3 px-5 md:px-5 lg:px-10 w-max text-sm md:text-base lg:text-xl font-semibold">
                   Shop Now
                 </button>
@@ -53,7 +53,7 @@ export default function Header() {
               <h3 className="text-4xl md:text-5xl xl:text-7xl font-bold text-primary leading-snug">
                 Energy-Efficient LED <br /> Lights YY
               </h3>
-              <Link href={"/contact-us"} className="w-max">
+              <Link href={"/contact-us"} className="w-max dark:text-black" >
                 <button className="bg-white rounded-full p-3 px-5 md:px-5 lg:px-10 w-max text-sm md:text-base lg:text-xl font-semibold">
                   Contact Us
                 </button>
@@ -70,7 +70,7 @@ export default function Header() {
               <h3 className="text-4xl md:text-5xl xl:text-7xl font-bold text-primary leading-snug">
                 Designer Vanity <br /> Lights Calgary
               </h3>
-              <Link href={"/products/all"} className="w-max">
+              <Link href={"/products/all"} className="w-max dark:text-black" >
                 <button className="bg-white rounded-full p-3 px-5 md:px-5 lg:px-10 w-max text-sm md:text-base lg:text-xl font-semibold">
                   See More
                 </button>
@@ -87,7 +87,7 @@ export default function Header() {
               <h3 className="text-4xl md:text-5xl xl:text-7xl font-bold text-primary leading-snug">
                 Designer Ceiling <br /> & Vanity Calgary!
               </h3>
-              <Link href={"tel:+14033242525"} className="w-max">
+              <Link href={"tel:+14033242525"} className="w-max dark:text-black" >
                 <button className="bg-white rounded-full p-3 px-5 md:px-5 lg:px-10 w-max text-sm md:text-base lg:text-xl font-semibold">
                   Call Now
                 </button>

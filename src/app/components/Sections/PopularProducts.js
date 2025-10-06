@@ -7,7 +7,7 @@ import SectionDivider from "../SectionDivider";
 export default function PopularProducts() {
   const productsArray = Object.values(products).slice(0, 8);
   return (
-    <div className="flex flex-col w-full h-auto px-4 md:px-8 lg:px-12 2xl:px-20 py-10">
+    <div className="flex flex-col w-full h-auto px-4 md:px-8 lg:px-12 2xl:px-20 py-10 dark:text-black" >
       <div className="flex flex-col gap-0 text-center" data-aos="zoom-out-up">
         <h2 className="text-base text-primary">Visit Our</h2>
         <SectionDivider />

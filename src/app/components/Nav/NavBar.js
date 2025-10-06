@@ -36,7 +36,7 @@ export default function NavBar() {
   ];
   return (
     <>
-      <div className="w-full h-auto ">
+      <div className="w-full h-auto dark:text-black">
         {/* Navbar */}
         <div className="navbar border-t border-b flex items-center justify-between py-6 px-4 md:px-8 lg:px-12 2xl:px-20 w-full z-20 bg-white relative">
           {/* <div className='flex items-center gap-10'>

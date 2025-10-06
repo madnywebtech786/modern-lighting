@@ -5,7 +5,7 @@ import React from "react";
 
 export default function InfoTopBar() {
   return (
-    <div className="bg-white p-2 w-full flex px-4 md:px-8 lg:px-12 2xl:px-20 items-center">
+    <div className="bg-white p-2 w-full flex px-4 md:px-8 lg:px-12 2xl:px-20 items-center dark:text-black">
       <div className="w-1/2 lg:w-7/12 flex gap-3">
         <Image
           src={"/images/logo.svg"}

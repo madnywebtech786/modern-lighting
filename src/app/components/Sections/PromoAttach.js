@@ -8,7 +8,7 @@ export default function PromoAttach() {
         <div className='bg-white border-l-4 border-red-500 p-4'>
           <p className='text-xl lg:text-2xl leading-relaxed'>
             TIME TO ORDER YOUR ITEM <br />
-            <span className='font-semibold text-primary'> MAKE'S YOU COLORFUL</span>
+            <span className='font-semibold text-primary'> BRING LIGHT TO YOUR WORLD</span>
           </p>
         </div>
         <p className='text-2xl lg:text-3xl text-white font-semibold p-4 py-2'>NEW 2024 STREET COLLECTION</p>

@@ -29,7 +29,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang='en' className='h-full overflow-x-hidden'>
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased relative h-full`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased relative h-full bg-white dark:bg-white`}
       >
         <ModalProvider>
           {/* Sticky Header */}
