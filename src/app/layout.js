@@ -7,6 +7,7 @@ import NavBar from './components/Nav/NavBar';
 import TopBar from './components/TopBar';
 import Footer from './components/Sections/Footer';
 import MobileNav from './components/Nav/MobileNav';
+import InfoTopBar from './components/Sections/InfoTopBar';
 
 const geistSans = localFont({
   src: './fonts/GeistVF.woff',
@@ -36,7 +37,7 @@ export default function RootLayout({ children }) {
           {/* Main Content */}
           <main className='relative'>
             <div className='sticky top-0 z-50 bg-white shadow-md hidden xl:block'>
-              <TopBar />
+              <InfoTopBar />
               <NavBar />
             </div>
 

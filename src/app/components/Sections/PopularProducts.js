@@ -16,10 +16,10 @@ export default function PopularProducts() {
           Most Popular Products
         </h3>
       </div>
-      <div className="flex flex-wrap mt-12">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 mt-12">
         {productsArray.map((product, index) => (
           <div
-            className="w-full md:w-1/2 lg:w-1/3 xl:w-1/4"
+            className="w-full"
             data-aos="fade-up"
             data-aos-delay={index * 150}
           >

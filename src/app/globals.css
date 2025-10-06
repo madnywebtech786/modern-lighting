@@ -5,7 +5,7 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
-  --primary:#f8ef2d;
+  --primary: #fbcd0e;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -19,10 +19,9 @@ body {
   color: var(--foreground);
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
-  
 }
 
-.parent-link:hover{
+.parent-link:hover {
   color: var(--primary);
   transition: 0.5s ease;
   -webkit-transition: 0.5s ease;
@@ -31,17 +30,16 @@ body {
   -o-transition: 0.5s ease;
 }
 
-html{
+html {
   position: relative;
 }
-
 
 .underline-animation {
   position: relative;
 }
 
 .underline-animation::after {
-  content: '';
+  content: "";
   position: absolute;
   bottom: -2px;
   left: 0;
@@ -60,7 +58,7 @@ html{
 }
 
 .underline-animation-white::after {
-  content: '';
+  content: "";
   position: absolute;
   bottom: -2px;
   left: 0;
@@ -76,14 +74,14 @@ html{
 
 .promo1 {
   background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.1)),
-    url('/images/promo1.png');
+    url("/images/promo1.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 .promo2 {
   background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.1)),
-    url('/images/promo2.png');
+    url("/images/promo2.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -91,7 +89,7 @@ html{
 
 .promoAttach {
   background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.1)),
-    url('/images/bgAttached.png');
+    url("/images/bgAttached.png");
   background-size: cover;
   background-attachment: fixed;
 
@@ -100,7 +98,7 @@ html{
 }
 .testimonials {
   background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.1)),
-    url('/images/testimonials.png');
+    url("/images/testimonials.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -108,14 +106,14 @@ html{
 
 .Scandinavian1 {
   background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.1)),
-    url('/images/Scandinavian1.png');
+    url("/images/Scandinavian1.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 .Chandeliers3 {
   background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.1)),
-    url('/images/Chandeliers3.png');
+    url("/images/Chandeliers3.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -123,25 +121,25 @@ html{
 
 .aboutUs {
   background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.1)),
-    url('/images/aboutbg.png');
+    url("/images/aboutbg.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
 }
 .contactUs {
   background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.1)),
-    url('/images/contactbg.png');
+    url("/images/contactbg.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 
-.statsSection{
+.statsSection {
   background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.1)),
-  url('/images/statsBg.png');
-background-size: cover;
-background-attachment: fixed;
-background-repeat: no-repeat;
+    url("/images/statsBg.png");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
 .whyUsImg1 {
@@ -175,7 +173,7 @@ background-repeat: no-repeat;
 
 .outline-text {
   color: transparent; /* Makes the text hollow */
-  -webkit-text-stroke: 1px black; 
+  -webkit-text-stroke: 1px black;
 }
 
 .active-small-category .small-category-text {
@@ -199,24 +197,27 @@ background-repeat: no-repeat;
   animation-fill-mode: both;
 }
 
-.accordion-child,.productModal,.product-card {
+.accordion-child,
+.productModal,
+.product-card {
   scrollbar-width: none; /* For Firefox */
 }
 
-.accordion-child::-webkit-scrollbar,.productModal::-webkit-scrollbar {
+.accordion-child::-webkit-scrollbar,
+.productModal::-webkit-scrollbar {
   display: none; /* For Chrome, Safari, and newer versions of Edge */
 }
 
-.contactUs{
-    background-image: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.85)),
-    url('/images/contactSectionBg.jpeg');
+.contactUs {
+  background-image: linear-gradient(
+      rgba(255, 255, 255, 0.3),
+      rgba(255, 255, 255, 0.85)
+    ),
+    url("/images/contactSectionBg.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  
 }
-
-
 
 .productModal {
   max-height: 400px; /* Default for mobile and smaller screens */

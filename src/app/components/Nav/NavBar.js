@@ -1,28 +1,45 @@
-'use client';
-import React, { useState } from 'react';
-import Link from 'next/link';
-import { navData } from '../../constants/data';
-import NavDetailType1 from './NavDetailType1';
-import NavDetailType2 from './NavDetailType2';
-import Image from 'next/image';
+"use client";
+import React, { useState } from "react";
+import Link from "next/link";
+import { navData } from "../../constants/data";
+import NavDetailType1 from "./NavDetailType1";
+import NavDetailType2 from "./NavDetailType2";
+import Image from "next/image";
 
 export default function NavBar() {
-  const [hoveredLink, setHoveredLink] = useState('');
-
+  const [hoveredLink, setHoveredLink] = useState("");
+  const navLinks = [
+    {
+      name: "Home",
+      link: "/",
+    },
+    {
+      name: "About Us",
+      link: "/about",
+    },
+    {
+      name: "Our Products",
+      link: "/products/all",
+    },
+    // {
+    //   name: "FAQs",
+    //   link: "/faqs",
+    // },
+    {
+      name: "Gallery",
+      link: "/gallery",
+    },
+    {
+      name: "Contact Us",
+      link: "/contact-us",
+    },
+  ];
   return (
     <>
-      <div className='w-full h-auto '>
+      <div className="w-full h-auto ">
         {/* Navbar */}
-        <div className='navbar border-t border-b flex items-center justify-between px-4 md:px-8 lg:px-12 2xl:px-20 py-1 w-full z-20 bg-white relative'>
-          <div className='flex items-center gap-10'>
-            <Link href={'/'}>
-              <Image
-                src={'/images/logo.svg'}
-                alt='Logo'
-                width={80}
-                height={80}
-              />
-            </Link>
+        <div className="navbar border-t border-b flex items-center justify-between py-6 px-4 md:px-8 lg:px-12 2xl:px-20 w-full z-20 bg-white relative">
+          {/* <div className='flex items-center gap-10'>
             <div className='flex gap-8 text-lg font-medium'>
               <Link
                 href='/'
@@ -173,11 +190,15 @@ export default function NavBar() {
                 )}
               </div>
             </div>
+          </div> */}
+          <div className="flex gap-10 justify-center w-full ">
+            {navLinks.map((link) => (
+              <Link href={link.link} className="underline-animation text-lg font-semibold">{link.name}</Link>
+            ))}
           </div>
         </div>
-
         {/* Dropdown Menu */}
-        <div
+        {/* <div
           className={`absolute left-0 top-[100%] links-Detail w-full px-10 transition-all duration-300 ease-out transform z-40 bg-white ${
             hoveredLink
               ? 'opacity-100 translate-y-0 pointer-events-auto'
@@ -198,7 +219,7 @@ export default function NavBar() {
               setHoveredLink={setHoveredLink}
             />
           )}
-        </div>
+        </div> */}
       </div>
     </>
   );

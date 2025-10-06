@@ -32,7 +32,7 @@ export default function Home() {
         <WhyChooseUs />
         <PopularProducts />
         {/* <Promos /> */}
-        <CategoriesSection />
+        {/* <CategoriesSection /> */}
         <StatsSection />
         <PromoAttach />
         <InDemand />

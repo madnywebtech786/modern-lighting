@@ -13,11 +13,11 @@ import 'swiper/css/scrollbar';
 const categories = [
   'Chandelier',
   'Wall Light',
-  'Bedroom',
+  'Vanity',
   'Pendant',
   'Ceiling',
   'Outdoor',
-  'Dining Room',
+  'Dinning',
 ];
 export default function CategorySection() {
   return (
