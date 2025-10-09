@@ -53,19 +53,16 @@ export default function MobileNav() {
   return (
     <>
       <div className="flex justify-between items-center px-4 w-full dark:text-black">
-        <div className="flex gap-5">
+        <div className="flex gap-5 items-center">
           <Image
             src={"/images/logo.svg"}
             alt="modern-lighting logo"
             width={80}
             height={80}
           />
-          <Image
-            src={"/images/new-logo.png"}
-            width={200}
-            height={50}
-            alt="modern lighting text"
-          />
+          <p className="text-2xl">
+            <span className="font-bold"> MODERN </span> LIGHTING
+          </p>
         </div>
 
         {/* Mobile Toggle Button */}
