@@ -123,7 +123,7 @@ export default function Footer() {
               <div className="flex flex-col gap-1">
                 <h3 className="text-base font-bold ">Our Location</h3>
                 <p className="text-xs">
-                  10960 42 St NE unit 215, Calgary, AB T3N 2B8
+                  10960 42 St NE unit 205, Calgary, AB T3N 2B8
                 </p>
               </div>
             </div>

@@ -42,7 +42,7 @@ export default function InfoTopBar() {
             size={30}
           />
           <h4 className="font-bold">
-            10960 42 St NE unit 215, Calgary, AB T3N 2B8
+            10960 42 St NE unit 205, Calgary, AB T3N 2B8
           </h4>
         </div>
       </div>
