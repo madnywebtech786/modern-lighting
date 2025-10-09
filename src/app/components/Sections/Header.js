@@ -51,7 +51,7 @@ export default function Header() {
                 Energy-Saving LED Lighting Solutions
               </h2>
               <h3 className="text-4xl md:text-5xl xl:text-7xl font-bold text-primary leading-snug">
-                Energy-Efficient LED <br /> Lights YY
+                Energy-Efficient LED <br /> Lights YYC
               </h3>
               <Link href={"/contact-us"} className="w-max dark:text-black" >
                 <button className="bg-white rounded-full p-3 px-5 md:px-5 lg:px-10 w-max text-sm md:text-base lg:text-xl font-semibold">

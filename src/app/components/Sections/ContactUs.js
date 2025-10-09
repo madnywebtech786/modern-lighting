@@ -13,9 +13,7 @@ export default function ContactUs() {
           Got some burning questions?
         </h2>
         <p className="my-5" data-aos="fade-right" data-aos-delay="100">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum
-          incidunt libero laboriosam ut sapiente. Quas repudiandae suscipit vero
-          facilis fugiat maxime dolorem.
+         We’re here to help! Whether you’re looking for the perfect lighting solution, need expert advice on design, or have questions about our products and services — our team is just a call or message away. Let’s brighten your space with style and innovation.
         </p>
 
         <div className="flex flex-col justify-between gap-8">
