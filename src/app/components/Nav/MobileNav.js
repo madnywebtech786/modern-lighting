@@ -60,7 +60,7 @@ export default function MobileNav() {
             width={80}
             height={80}
           />
-          <p className="text-lg">
+          <p className="text-xl">
             <span className="font-bold"> MODERN </span> LIGHTING
           </p>
         </div>
