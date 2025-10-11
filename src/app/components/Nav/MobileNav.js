@@ -55,12 +55,12 @@ export default function MobileNav() {
       <div className="flex justify-between items-center px-4 w-full dark:text-black">
         <div className="flex gap-5 items-center">
           <Image
-            src={"/images/logo.svg"}
+            src={"/images/logoWhite.jpg"}
             alt="modern-lighting logo"
             width={80}
             height={80}
           />
-          <p className="text-2xl">
+          <p className="text-lg">
             <span className="font-bold"> MODERN </span> LIGHTING
           </p>
         </div>
