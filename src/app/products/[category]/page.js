@@ -19,7 +19,7 @@ export default function ProductCategoryPage({ params }) {
   const [activeFilterOpen, setActiveFilterOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState("");
   const [page, setPage] = useState(1);
-  const itemsPerPage = 6;
+  const itemsPerPage = 9;
 
   useEffect(() => {
     async function fetchCategory() {
@@ -449,67 +449,74 @@ export default function ProductCategoryPage({ params }) {
               </button>
             </div>
             {/* Info Bar */}
-            <div className="flex justify-between items-start px-4 gap-3 py-3 flex-col xl:flex-row">
-              <p className="text-base md:text-lg xl:text-xl text-gray-300">
-                Showing{" "}
-                {visibleProducts.length > 0 ? visibleProducts.length : 0} of{" "}
-                {filteredProducts.length} products
-              </p>
-              <div className="flex items-center gap-5  justify-end w-full lg:w-auto">
-                <button
-                  className="text-base bg-gray-50 p-3 px-6 rounded-lg"
-                  onClick={() => clearFilter()}
-                >
+              <div className="flex justify-between items-start px-4 gap-3 py-3 flex-col xl:flex-row">
+            <p className="text-base md:text-lg xl:text-xl text-gray-700">
+              Showing{" "}
+              {visibleProducts.length > 0 ? visibleProducts.length : 0} of{" "}
+              {filteredProducts.length} products
+            </p>
+
+            <div className="flex items-center gap-5 justify-end w-full lg:w-auto">
+              {/* Reset button */}
+              <button
+                className="text-base bg-white p-3 px-6 rounded-lg border border-gray-200 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-blue-500 transition"
+                onClick={() => clearFilter()}
+              >
+                <Image
+                  src="/images/icons/ResetIcon.svg"
+                  alt="reset-filter"
+                  width={20}
+                  height={20}
+                />
+              </button>
+
+              {/* Filter dropdown */}
+              <div
+                className="relative text-base bg-white p-3 px-6 flex items-center rounded-lg cursor-pointer border border-gray-200 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-blue-500 transition"
+                onClick={() => setActiveFilterOpen(!activeFilterOpen)}
+              >
+                <p className="flex gap-3 items-center text-black">
+                  {activeFilter ? activeFilter : "Filters"}
                   <Image
-                    src="/images/icons/ResetIcon.svg"
-                    alt="reset-filter"
-                    width={20}
-                    height={20}
+                    src="/images/icons/ArrowDown.svg"
+                    alt="menu-arrow"
+                    width={13}
+                    height={13}
+                    className={`transition-transform duration-300 ${
+                      activeFilterOpen ? "rotate-180" : "rotate-0"
+                    }`}
                   />
-                </button>
-                <div
-                  className="relative text-base bg-gray-50 p-3 px-6 flex items-center rounded-lg cursor-pointer"
-                  onClick={() => setActiveFilterOpen(!activeFilterOpen)}
-                >
-                  <p className="flex gap-3 items-center">
-                    {activeFilter ? activeFilter : "Filters"}
-                    <Image
-                      src="/images/icons/ArrowDown.svg"
-                      alt="menu-arrow"
-                      width={13}
-                      height={13}
-                      className={`transition-transform duration-300 ${
-                        activeFilterOpen ? "rotate-180" : "rotate-0"
-                      }`}
-                    />
-                  </p>
-                  {activeFilterOpen && (
-                    <div
-                      className="absolute top-full right-0 mt-2 w-40 bg-white shadow-lg rounded z-50"
-                      onMouseLeave={() => setActiveFilterOpen(false)}
-                    >
-                      {[
-                        "On Sale",
-                        "New Arrivals",
-                        "Alphabetic A-Z",
-                        "Alphabetic Z-A",
-                      ].map((filter, index) => (
-                        <p
-                          key={index}
-                          className="block px-4 py-2 hover:bg-gray-100 border-b border-gray-300"
-                          onClick={() => {
-                            setActiveFilter(filter);
-                            setActiveFilterOpen(false);
-                          }}
-                        >
-                          {filter}
-                        </p>
-                      ))}
-                    </div>
-                  )}
-                </div>
-              </div>
-            </div>
+                </p>
+
+      {/* Dropdown menu */}
+      {activeFilterOpen && (
+        <div
+          className="absolute top-full right-0 mt-2 w-44 bg-white border border-gray-200 shadow-lg rounded-md z-50 transition-all duration-200 ease-in-out"
+          onMouseLeave={() => setActiveFilterOpen(false)}
+        >
+          {[
+            "On Sale",
+            "New Arrivals",
+            "Alphabetic A-Z",
+            "Alphabetic Z-A",
+          ].map((filter, index) => (
+            <p
+              key={index}
+              className="block px-4 py-2 text-black hover:bg-gray-100 border-b border-gray-200 last:border-none cursor-pointer"
+              onClick={() => {
+                setActiveFilter(filter);
+                setActiveFilterOpen(false);
+              }}
+            >
+              {filter}
+            </p>
+          ))}
+        </div>
+      )}
+    </div>
+  </div>
+</div>
+
 
             {/* Products */}
             <div className=" mt-5 grid md:grid-cols-2 lg:grid-cols-3 gap-4">

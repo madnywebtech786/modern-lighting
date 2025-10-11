@@ -11,7 +11,7 @@ export default function Footer() {
         <div className="w-full lg:w-1/4 flex flex-col gap-5 items-center lg:items-start">
           <div className="flex justify-center w-3/4">
             <Image
-              src={"/images/logowhite.jpg"}
+              src={"/images/logoWhite.jpg"}
               alt="modern-lighting logo"
               width={160}
               height={150}
