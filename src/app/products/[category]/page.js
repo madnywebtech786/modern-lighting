@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import ProductCard from "@/app/components/ProductCard";
 import { products, categoriesData } from "@/app/constants/data";
 import Accordion from "@/app/components/Accordion";
@@ -20,6 +20,9 @@ export default function ProductCategoryPage({ params }) {
   const [searchQuery, setSearchQuery] = useState("");
   const [page, setPage] = useState(1);
   const itemsPerPage = 9;
+
+  // <-- new ref to scroll to top of filters/products area
+  const topRef = useRef(null);
 
   useEffect(() => {
     async function fetchCategory() {
@@ -133,12 +136,16 @@ export default function ProductCategoryPage({ params }) {
   const nextPage = () => {
     if (page * itemsPerPage < filteredProducts.length) {
       setPage(page + 1);
+      // scroll to top of filters/products area
+      topRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
     }
   };
 
   const prevPage = () => {
     if (page > 1) {
       setPage(page - 1);
+      // scroll to top of filters/products area
+      topRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
     }
   };
 
@@ -153,7 +160,10 @@ export default function ProductCategoryPage({ params }) {
         </div>
 
         {/* Content */}
-        <div className="flex gap-4 my-10 mx-2 flex-col xl:flex-row bg-white dark:bg-white">
+        <div
+          ref={topRef} // <-- attached ref here so we scroll to the top of the content/filters area
+          className="flex gap-4 my-10 mx-2 flex-col xl:flex-row bg-white dark:bg-white"
+        >
           {/* Sidebar */}
           <div className="w-1/5 p-5 bg-gray-50 rounded-lg filter-bar h-auto max-h-[400px] overflow-x-hidden filter-sidebar hidden xl:block">
             <div className="flex justify-between">
@@ -225,156 +235,12 @@ export default function ProductCategoryPage({ params }) {
                   Landscape Lights
                 </Link>
               </div>
-              {/* <Accordion
-                title='Shop By Style'
-                className='p-4 rounded-lg bg-white !text-lg'
-              >
-                <div className='flex flex-col gap-1 text-base'>
-                  <Link href='#' className='underline-animation w-max'>
-                    Scandinavian
-                  </Link>
-                  <Link href='#' className='underline-animation w-max'>
-                    Minimalistic
-                  </Link>
-                </div>
-              </Accordion>
-              <Accordion
-                title='Shop By Room'
-                className='p-4 rounded-lg bg-white !text-lg'
-              >
-                <div className='flex flex-col gap-1 text-base'>
-                  <Link href='#' className='underline-animation w-max'>
-                    Living Room
-                  </Link>
-                  <Link href='#' className='underline-animation w-max'>
-                    Dining Room
-                  </Link>
-                  <Link href='#' className='underline-animation w-max'>
-                    Bedroom
-                  </Link>
-                </div>
-              </Accordion>
-              <Accordion
-                title='Shop By Type'
-                className='p-4 rounded-lg bg-white !text-lg'
-              >
-                <div className='flex flex-col gap-1 text-base'>
-                  <Link
-                    href='/products/ceilingLight'
-                    className='underline-animation w-max'
-                  >
-                    Ceiling Light
-                  </Link>
-                  <Link
-                    href='/products/chandelier'
-                    className='underline-animation w-max'
-                  >
-                    Chandelier
-                  </Link>
-                  <Link
-                    href='/products/islandLights'
-                    className='underline-animation w-max'
-                  >
-                    Island Lights
-                  </Link>
-                  <Link
-                    href='/products/outdoorWallLight'
-                    className='underline-animation w-max'
-                  >
-                    Outdoor Wall Light
-                  </Link>
-                  <Link
-                    href='/products/vanityLight'
-                    className='underline-animation w-max'
-                  >
-                    Vanity Light
-                  </Link>
-                  <Link
-                    href='/products/wallLights'
-                    className='underline-animation w-max'
-                  >
-                    Wall Lights
-                  </Link>
-                </div>
-              </Accordion> */}
             </div>
           </div>
           {/* Category Accordion for mobile */}
           <div className="p-5 bg-gray-50 rounded-lg block xl:hidden mx-4 dark:text-black">
             <Accordion title={"Categories"}>
               <div className="flex flex-col gap-2 mt-5">
-                {/* <Accordion
-                  title="Shop By Style"
-                  className="p-4 rounded-lg bg-white !text-base"
-                >
-                  <div className="flex flex-col gap-1 text-base">
-                    <Link href="#" className="underline-animation w-max">
-                      Scandinavian
-                    </Link>
-                    <Link href="#" className="underline-animation w-max">
-                      Minimalistic
-                    </Link>
-                  </div>
-                </Accordion>
-                <Accordion
-                  title="Shop By Room"
-                  className="p-4 rounded-lg bg-white !text-base"
-                >
-                  <div className="flex flex-col gap-1 text-base">
-                    <Link href="#" className="underline-animation w-max">
-                      Living Room
-                    </Link>
-                    <Link href="#" className="underline-animation w-max">
-                      Dining Room
-                    </Link>
-                    <Link href="#" className="underline-animation w-max">
-                      Bedroom
-                    </Link>
-                  </div>
-                </Accordion>
-                <Accordion
-                  title="Shop By Type"
-                  className="p-4 rounded-lg bg-white !text-base"
-                >
-                  <div className="flex flex-col gap-1 text-base">
-                    <Link
-                      href="/products/ceilingLight"
-                      className="underline-animation w-max"
-                    >
-                      Ceiling Light
-                    </Link>
-                    <Link
-                      href="/products/chandelier"
-                      className="underline-animation w-max"
-                    >
-                      Chandelier
-                    </Link>
-                    <Link
-                      href="/products/islandLights"
-                      className="underline-animation w-max"
-                    >
-                      Island Lights
-                    </Link>
-                    <Link
-                      href="/products/outdoorWallLight"
-                      className="underline-animation w-max"
-                    >
-                      Outdoor Wall Light
-                    </Link>
-                    <Link
-                      href="/products/vanityLight"
-                      className="underline-animation w-max"
-                    >
-                      Vanity Light
-                    </Link>
-                    <Link
-                      href="/products/wallLights"
-                      className="underline-animation w-max"
-                    >
-                      Wall Lights
-                    </Link>
-                  </div>
-                </Accordion> */}
                 <div className="flex flex-col gap-1 text-base">
                   <Link
                     href="/products/ceilingLight"
@@ -449,74 +315,73 @@ export default function ProductCategoryPage({ params }) {
               </button>
             </div>
             {/* Info Bar */}
-              <div className="flex justify-between items-start px-4 gap-3 py-3 flex-col xl:flex-row">
-            <p className="text-base md:text-lg xl:text-xl text-gray-700">
-              Showing{" "}
-              {visibleProducts.length > 0 ? visibleProducts.length : 0} of{" "}
-              {filteredProducts.length} products
-            </p>
+            <div className="flex justify-between items-start px-4 gap-3 py-3 flex-col xl:flex-row">
+              <p className="text-base md:text-lg xl:text-xl text-gray-700">
+                Showing{" "}
+                {visibleProducts.length > 0 ? visibleProducts.length : 0} of{" "}
+                {filteredProducts.length} products
+              </p>
 
-            <div className="flex items-center gap-5 justify-end w-full lg:w-auto">
-              {/* Reset button */}
-              <button
-                className="text-base bg-white p-3 px-6 rounded-lg border border-gray-200 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-blue-500 transition"
-                onClick={() => clearFilter()}
-              >
-                <Image
-                  src="/images/icons/ResetIcon.svg"
-                  alt="reset-filter"
-                  width={20}
-                  height={20}
-                />
-              </button>
-
-              {/* Filter dropdown */}
-              <div
-                className="relative text-base bg-white p-3 px-6 flex items-center rounded-lg cursor-pointer border border-gray-200 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-blue-500 transition"
-                onClick={() => setActiveFilterOpen(!activeFilterOpen)}
-              >
-                <p className="flex gap-3 items-center text-black">
-                  {activeFilter ? activeFilter : "Filters"}
+              <div className="flex items-center gap-5 justify-end w-full lg:w-auto">
+                {/* Reset button */}
+                <button
+                  className="text-base bg-white p-3 px-6 rounded-lg border border-gray-200 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-blue-500 transition"
+                  onClick={() => clearFilter()}
+                >
                   <Image
-                    src="/images/icons/ArrowDown.svg"
-                    alt="menu-arrow"
-                    width={13}
-                    height={13}
-                    className={`transition-transform duration-300 ${
-                      activeFilterOpen ? "rotate-180" : "rotate-0"
-                    }`}
+                    src="/images/icons/ResetIcon.svg"
+                    alt="reset-filter"
+                    width={20}
+                    height={20}
                   />
-                </p>
+                </button>
 
-      {/* Dropdown menu */}
-      {activeFilterOpen && (
-        <div
-          className="absolute top-full right-0 mt-2 w-44 bg-white border border-gray-200 shadow-lg rounded-md z-50 transition-all duration-200 ease-in-out"
-          onMouseLeave={() => setActiveFilterOpen(false)}
-        >
-          {[
-            "On Sale",
-            "New Arrivals",
-            "Alphabetic A-Z",
-            "Alphabetic Z-A",
-          ].map((filter, index) => (
-            <p
-              key={index}
-              className="block px-4 py-2 text-black hover:bg-gray-100 border-b border-gray-200 last:border-none cursor-pointer"
-              onClick={() => {
-                setActiveFilter(filter);
-                setActiveFilterOpen(false);
-              }}
-            >
-              {filter}
-            </p>
-          ))}
-        </div>
-      )}
-    </div>
-  </div>
-</div>
+                {/* Filter dropdown */}
+                <div
+                  className="relative text-base bg-white p-3 px-6 flex items-center rounded-lg cursor-pointer border border-gray-200 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-blue-500 transition"
+                  onClick={() => setActiveFilterOpen(!activeFilterOpen)}
+                >
+                  <p className="flex gap-3 items-center text-black">
+                    {activeFilter ? activeFilter : "Filters"}
+                    <Image
+                      src="/images/icons/ArrowDown.svg"
+                      alt="menu-arrow"
+                      width={13}
+                      height={13}
+                      className={`transition-transform duration-300 ${
+                        activeFilterOpen ? "rotate-180" : "rotate-0"
+                      }`}
+                    />
+                  </p>
 
+                  {/* Dropdown menu */}
+                  {activeFilterOpen && (
+                    <div
+                      className="absolute top-full right-0 mt-2 w-44 bg-white border border-gray-200 shadow-lg rounded-md z-50 transition-all duration-200 ease-in-out"
+                      onMouseLeave={() => setActiveFilterOpen(false)}
+                    >
+                      {[
+                        "On Sale",
+                        "New Arrivals",
+                        "Alphabetic A-Z",
+                        "Alphabetic Z-A",
+                      ].map((filter, index) => (
+                        <p
+                          key={index}
+                          className="block px-4 py-2 text-black hover:bg-gray-100 border-b border-gray-200 last:border-none cursor-pointer"
+                          onClick={() => {
+                            setActiveFilter(filter);
+                            setActiveFilterOpen(false);
+                          }}
+                        >
+                          {filter}
+                        </p>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              </div>
+            </div>
 
             {/* Products */}
             <div className=" mt-5 grid md:grid-cols-2 lg:grid-cols-3 gap-4">
