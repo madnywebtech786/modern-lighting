@@ -25,10 +25,10 @@ export default function NavBar() {
     //   name: "FAQs",
     //   link: "/faqs",
     // },
-    // {
-    //   name: "Gallery",
-    //   link: "/gallery",
-    // },
+    {
+      name: "Gallery",
+      link: "/gallery",
+    },
     {
       name: "Contact Us",
       link: "/contact-us",

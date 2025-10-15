@@ -45,7 +45,7 @@ export default function Header() {
           </div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className="w-full h-full slide1Bg flex items-center px-4 md:px-14 lg:px-12 2xl:px-20">
+          <div className="w-full h-full slide2Bg flex items-center px-4 md:px-14 lg:px-12 2xl:px-20">
             <div className="flex flex-col gap-8">
               <h2 className="text-xl md:text-3xl lg:text-4xl  text-white">
                 Energy-Saving LED Lighting Solutions
@@ -62,7 +62,7 @@ export default function Header() {
           </div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className="w-full h-full slide1Bg flex items-center px-4 md:px-14 lg:px-12 2xl:px-20">
+          <div className="w-full h-full slide3Bg flex items-center px-4 md:px-14 lg:px-12 2xl:px-20">
             <div className="flex flex-col gap-8">
               <h2 className="text-xl md:text-3xl lg:text-4xl  text-white">
                 Designer Vanity Lights For Homes
@@ -79,7 +79,7 @@ export default function Header() {
           </div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className="w-full h-full slide1Bg flex items-center px-4 md:px-14 lg:px-12 2xl:px-20">
+          <div className="w-full h-full slide4Bg flex items-center px-4 md:px-14 lg:px-12 2xl:px-20">
             <div className="flex flex-col gap-8">
               <h2 className="text-xl md:text-3xl lg:text-4xl  text-white">
                 Stylish Ceiling and Vanity Fixtures

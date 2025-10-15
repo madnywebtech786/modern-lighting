@@ -24,10 +24,10 @@ export default function MobileNav() {
     //   name: "FAQs",
     //   link: "/faqs",
     // },
-    // {
-    //   name: "Gallery",
-    //   link: "/gallery",
-    // },
+    {
+      name: "Gallery",
+      link: "/gallery",
+    },
     {
       name: "Contact Us",
       link: "/contact-us",
@@ -55,14 +55,11 @@ export default function MobileNav() {
       <div className="flex justify-between items-center px-4 w-full dark:text-black">
         <div className="flex gap-5 items-center">
           <Image
-            src={"/images/logoWhite.jpg"}
+            src={"/images/logoWhite.jpeg"}
             alt="modern-lighting logo"
-            width={80}
-            height={80}
+            width={120}
+            height={120}
           />
-          <p className="text-xl">
-            <span className="font-bold"> MODERN </span> LIGHTING
-          </p>
         </div>
 
         {/* Mobile Toggle Button */}
@@ -82,10 +79,10 @@ export default function MobileNav() {
         {/* Close Button */}
         <div className="flex justify-between p-4">
           <Image
-            src={"/images/logo.svg"}
+            src={"/images/logoWhite.jpeg"}
             alt="modern-lighting logo"
-            width={80}
-            height={80}
+            width={150}
+            height={150}
           />
 
           <button onClick={toggleMobileNav} className="text-3xl text-black">
