@@ -1,25 +1,25 @@
 .slide1Bg {
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.3)),
     url("/images/IMG_5657.webp");
-  background-size: cover;
+  background-size: 100% 100%;
   background-repeat: no-repeat;
 }
 .slide2Bg {
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.3)),
     url("/images/IMG_5667~2.webp");
-  background-size: cover;
+  background-size: 100% 100%;
   background-repeat: no-repeat;
 }
 .slide3Bg {
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.3)),
     url("/images/IMG_5678~2.webp");
-  background-size: cover;
+  background-size: 100% 100%;
   background-repeat: no-repeat;
 }
 .slide4Bg {
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.3)),
     url("/images/IMG_5664~2.webp");
-  background-size: cover;
+  background-size: 100% 100%;
   background-repeat: no-repeat;
 }
 

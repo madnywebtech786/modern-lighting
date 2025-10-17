@@ -6,15 +6,7 @@ import React from "react";
 export default function InfoTopBar() {
   return (
     <div className="bg-white p-2 w-full flex px-4 md:px-8 lg:px-12 2xl:px-20 items-center dark:text-black">
-      <div className="w-1/2 lg:w-7/12 flex gap-3 items-center">
-        <Image
-          src={"/images/logoWhite.jpeg"}
-          width={300}
-          height={300}
-          alt="modern lighting logo"
-        />
-      </div>
-      <div className="w-1/2 lg:w-4/12 flex flex-col gap-2">
+      <div className="w-1/2 lg:w-8/12 flex gap-4">
         <div className="flex gap-2 items-center">
           <Phone
             className="bg-primary text-white rounded-full p-1 "
@@ -40,10 +32,10 @@ export default function InfoTopBar() {
           </h4>
         </div>
       </div>
-      <div className="hidden lg:block lg:w-1/12">
-        <div className="flex gap-2">
+      <div className="hidden lg:block lg:w-4/12">
+        <div className="flex gap-2 justify-end">
           <Link href={"/contact-us"}>
-            <button className="bg-primary p-3 px-4 rounded-md">
+            <button className="bg-primary text-white p-3 px-4 rounded-md">
               Contact Us
             </button>
           </Link>

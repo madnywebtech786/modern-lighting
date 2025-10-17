@@ -21,7 +21,7 @@ export default function Header() {
         draggable
         autoplay={{ delay: 5000 }}
         loop={true}
-        className="h-[400px] lg:!h-[700px]"
+        className="h-[400px] lg:!h-[750px]"
         navigation={{
           nextEl: ".swiper-button-next",
           prevEl: ".swiper-button-prev",

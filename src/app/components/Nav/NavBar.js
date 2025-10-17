@@ -38,7 +38,7 @@ export default function NavBar() {
     <>
       <div className="w-full h-auto dark:text-black">
         {/* Navbar */}
-        <div className="navbar border-t border-b flex items-center justify-between py-6 px-4 md:px-8 lg:px-12 2xl:px-20 w-full z-20 bg-white relative">
+        <div className="navbar border-t border-b flex items-center justify-between py-4 px-4 md:px-8 lg:px-12 2xl:px-20 w-full z-20 bg-white relative">
           {/* <div className='flex items-center gap-10'>
             <div className='flex gap-8 text-lg font-medium'>
               <Link
@@ -191,9 +191,29 @@ export default function NavBar() {
               </div>
             </div>
           </div> */}
-          <div className="flex gap-10 justify-center w-full ">
-            {navLinks.map((link,index) => (
-              <Link key={index+"link"} href={link.link} className="underline-animation text-lg font-semibold">{link.name}</Link>
+          <div className="w-9/12 lg:w-5/12 flex gap-3 items-center">
+            <Image
+              src={"/images/modern-color-logo.png"}
+              width={60}
+              height={60}
+              alt="modern lighting logo w-16 h-16"
+            />
+            <p className="text-5xl">
+              <span className="font-bold bg-gradient-to-r from-primary to-primaryLight bg-clip-text text-transparent">
+                Modern
+              </span>{" "}
+              Lighting
+            </p>
+          </div>
+          <div className="w-3/12 lg:w-7/12 flex gap-10 justify-center ">
+            {navLinks.map((link, index) => (
+              <Link
+                key={index + "link"}
+                href={link.link}
+                className="underline-animation text-lg font-semibold"
+              >
+                {link.name}
+              </Link>
             ))}
           </div>
         </div>

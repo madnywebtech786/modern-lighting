@@ -52,14 +52,20 @@ export default function MobileNav() {
 
   return (
     <>
-      <div className="flex justify-between items-center px-4 w-full dark:text-black">
-        <div className="flex gap-5 items-center">
+      <div className="flex justify-between items-center py-3 px-4 w-full dark:text-black">
+        <div className="flex gap-3 items-center">
           <Image
-            src={"/images/logoWhite.jpeg"}
-            alt="modern-lighting logo"
-            width={120}
-            height={120}
+            src={"/images/modern-color-logo.png"}
+            width={40}
+            height={40}
+            alt="modern lighting logo w-10 h-10"
           />
+          <p className="text-2xl">
+            <span className="font-bold bg-gradient-to-r from-primary to-primaryLight bg-clip-text text-transparent">
+              Modern
+            </span>{" "}
+            Lighting
+          </p>
         </div>
 
         {/* Mobile Toggle Button */}
@@ -77,14 +83,7 @@ export default function MobileNav() {
         }`}
       >
         {/* Close Button */}
-        <div className="flex justify-between p-4">
-          <Image
-            src={"/images/logoWhite.jpeg"}
-            alt="modern-lighting logo"
-            width={150}
-            height={150}
-          />
-
+        <div className="flex justify-end p-4">
           <button onClick={toggleMobileNav} className="text-3xl text-black">
             &times;
           </button>
