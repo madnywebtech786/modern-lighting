@@ -52,8 +52,8 @@ export default function ContactUs() {
             </div>
             <div className="flex flex-col gap-1">
               <h3 className="text-xl font-bold ">Official Email</h3>
-              <Link href={"mailto:modernlightingcalgary@gmail.com"}>
-                <p className="text-sm">modernlightingcalgary@gmail.com</p>
+              <Link href={"mailto:info@modernlightingyyc.ca"}>
+                <p className="text-sm">info@modernlightingyyc.ca</p>
               </Link>
             </div>
           </div>

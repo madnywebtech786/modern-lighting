@@ -18,8 +18,8 @@ export default function InfoTopBar() {
         </div>
         <div className="flex gap-2 items-center">
           <Mail className="bg-primary text-white rounded-full p-1 " size={30} />
-          <Link href={"mailto:modernlightingcalgary@gmail.com"}>
-            <h4 className="font-bold">modernlightingcalgary@gmail.com</h4>
+          <Link href={"mailto:info@modernlightingyyc.ca"}>
+            <h4 className="font-bold">info@modernlightingyyc.ca</h4>
           </Link>
         </div>
         <div className="flex gap-2 items-center">
