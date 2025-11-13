@@ -21,7 +21,7 @@ export default function MobileNav() {
       link: "/products/all",
     },
     {
-      name: "Our Brands",
+      name: "Brands",
       link: "/brands",
     },
     // {
