@@ -140,7 +140,7 @@ export default function Footer() {
                 height={40}
               />
             </Link>
-            <Link href="#" className="w-max">
+            <Link href="https://www.instagram.com/modernlightingyyc/" target="_blank" className="w-max">
               <Image
                 src={"/images/icons/InstaWhite.svg"}
                 alt="facebook"

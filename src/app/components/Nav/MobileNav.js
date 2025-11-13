@@ -281,7 +281,7 @@ export default function MobileNav() {
             />
           </a>
           <a
-            href="https://instagram.com"
+            href="https://www.instagram.com/modernlightingyyc/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:opacity-80"
