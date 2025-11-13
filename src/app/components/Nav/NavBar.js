@@ -21,6 +21,10 @@ export default function NavBar() {
       name: "Our Products",
       link: "/products/all",
     },
+     {
+      name: "Our Brands",
+      link: "/brands",
+    },
     // {
     //   name: "FAQs",
     //   link: "/faqs",
