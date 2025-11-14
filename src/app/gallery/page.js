@@ -6,7 +6,7 @@ export default function page() {
   const galleryItems = [
     {
       id: 1,
-      image: "/images/IMG_5657.webp",
+      image: "/images/IMG_5678~2.webp",
       width: "w-full md:w-1/3",
       height: "h-48 md:h-64",
     },
@@ -63,7 +63,7 @@ export default function page() {
                 width={700}
                 height={700}
                 src={galleryItems[0].image}
-                alt="Junk Car Collection"
+                alt="Modern Lighting"
                 className={`w-full ${galleryItems[0].height} object-cover`}
               />
             </div>
@@ -72,7 +72,7 @@ export default function page() {
                 width={700}
                 height={700}
                 src={galleryItems[1].image}
-                alt="Free Towing Service"
+                alt="Modern Lighting"
                 className={`w-full ${galleryItems[1].height} object-cover`}
               />
             </div>
@@ -81,7 +81,7 @@ export default function page() {
                 width={700}
                 height={700}
                 src={galleryItems[2].image}
-                alt="Cash Payment"
+                alt="Modern Lighting"
                 className={`w-full ${galleryItems[2].height} object-cover`}
               />
             </div>
@@ -92,7 +92,7 @@ export default function page() {
                 width={800}
                 height={700}
                 src={galleryItems[3].image}
-                alt="Eco-Friendly Recycling"
+                alt="Modern Lighting"
                 className={`w-full ${galleryItems[3].height} object-cover`}
               />
             </div>
@@ -103,7 +103,7 @@ export default function page() {
                 width={700}
                 height={700}
                 src={galleryItems[4].image}
-                alt="Same Day Service"
+                alt="Modern Lighting"
                 className={`w-full ${galleryItems[4].height} object-cover`}
               />
             </div>
@@ -112,7 +112,7 @@ export default function page() {
                 width={700}
                 height={700}
                 src={galleryItems[5].image}
-                alt="Customer Satisfaction"
+                alt="Modern Lighting"
                 className={`w-full ${galleryItems[5].height} object-cover`}
               />
             </div>
@@ -121,7 +121,7 @@ export default function page() {
                 width={800}
                 height={700}
                 src={galleryItems[6].image}
-                alt="Eco-Friendly Recycling"
+                alt="Modern Lighting"
                 className={`w-full ${galleryItems[3].height} object-cover`}
               />
             </div>
