@@ -28,11 +28,7 @@ export default function ProductCard({ product, className = '' }) {
           height={400}
           className='w-full h-full rounded-lg max-h-[400px]'
         />
-        {product?.tag && (
-          <span className='bg-primary text-black rounded-lg p-1 px-3 lg:px-6 absolute top-5 left-4 text-sm lg:text-base'>
-            {product.tag}
-          </span>
-        )}
+    
       </div>
 
       <div className='w-full h-1/5 bg-white dark:text-black'>

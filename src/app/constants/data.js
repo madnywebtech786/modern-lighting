@@ -411,7 +411,7 @@ export const products = {
       "/images/lights/ceiling-light/LPD3191-4.JPG",
       "/images/lights/ceiling-light/LPD3191-4.JPG",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   2: {
@@ -422,7 +422,7 @@ export const products = {
       "/images/lights/ceiling-light/LPD8599R- 300.jpg",
       "/images/lights/ceiling-light/LPD8599R- 300.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   3: {
@@ -433,7 +433,7 @@ export const products = {
       "/images/lights/single-pendant-lights/LPD14401-3 BK.jpg",
       "/images/lights/single-pendant-lights/LPD14401-3 BK.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   4: {
@@ -444,7 +444,7 @@ export const products = {
       "/images/lights/single-pendant-lights/LPD17500R-1 BK 2.jpg",
       "/images/lights/single-pendant-lights/LPD17500R-1 BK 2.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   5: {
@@ -455,7 +455,7 @@ export const products = {
       "/images/lights/ceiling-light/LX83007-360X360.JPG",
       "/images/lights/ceiling-light/LX83007-360X360.JPG",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   7: {
@@ -466,7 +466,7 @@ export const products = {
       "/images/lights/wall-lights/W14145.jpg",
       "/images/lights/wall-lights/W14145.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   8: {
@@ -477,7 +477,7 @@ export const products = {
       "/images/lights/chandelier/LD16505-10.jpg",
       "/images/lights/chandelier/LD16505-10.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   9: {
@@ -488,7 +488,7 @@ export const products = {
       "/images/lights/dinning-lights/LDD10211-7 GD.JPG",
       "/images/lights/dinning-lights/LDD10211-7 GD.JPG",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   10: {
@@ -499,7 +499,7 @@ export const products = {
       "/images/lights/chandelier/LPC1205-3.jpg",
       "/images/lights/chandelier/LPC1205-3.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   11: {
@@ -510,7 +510,7 @@ export const products = {
       "/images/lights/dinning-lights/LPC3071-860X300 GD on.JPG",
       "/images/lights/dinning-lights/LPC3071-860X300 GD on.JPG",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   12: {
@@ -521,7 +521,7 @@ export const products = {
       "/images/lights/dinning-lights/LPC3071-860X300 PBK OFF.jpg",
       "/images/lights/dinning-lights/LPC3071-860X300 PBK OFF.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   13: {
@@ -532,7 +532,7 @@ export const products = {
       "/images/lights/single-pendant-lights/LPC8150-1.jpg",
       "/images/lights/single-pendant-lights/LPC8150-1.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   14: {
@@ -543,7 +543,7 @@ export const products = {
       "/images/lights/chandelier/LPC8150-23.jpg",
       "/images/lights/chandelier/LPC8150-23.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   15: {
@@ -554,7 +554,7 @@ export const products = {
       "/images/lights/dinning-lights/LPC8150-7.jpg",
       "/images/lights/dinning-lights/LPC8150-7.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   16: {
@@ -565,7 +565,7 @@ export const products = {
       "/images/lights/outdoor-wall-light/13.jpg",
       "/images/lights/outdoor-wall-light/13.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   17: {
@@ -576,7 +576,7 @@ export const products = {
       "/images/lights/outdoor-wall-light/23.jpg",
       "/images/lights/outdoor-wall-light/23.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   18: {
@@ -587,7 +587,7 @@ export const products = {
       "/images/lights/outdoor-wall-light/33.jpg",
       "/images/lights/outdoor-wall-light/33.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   19: {
@@ -598,7 +598,7 @@ export const products = {
       "/images/lights/outdoor-wall-light/43.jpg",
       "/images/lights/outdoor-wall-light/43.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   20: {
@@ -609,7 +609,7 @@ export const products = {
       "/images/lights/landscape-lights/5W圆形03_05_03.png",
       "/images/lights/landscape-lights/5W圆形03_05_03.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   21: {
@@ -620,7 +620,7 @@ export const products = {
       "/images/lights/landscape-lights/5W圆形03_05_04.png",
       "/images/lights/landscape-lights/5W圆形03_05_04.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   22: {
@@ -631,7 +631,7 @@ export const products = {
       "/images/lights/landscape-lights/5W圆形03_05_07.png",
       "/images/lights/landscape-lights/5W圆形03_05_07.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   23: {
@@ -642,7 +642,7 @@ export const products = {
       "/images/lights/vanity-light/ACW12332-3.JPG",
       "/images/lights/vanity-light/ACW12332-3.JPG",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   24: {
@@ -653,7 +653,7 @@ export const products = {
       "/images/lights/vanity-light/ACW12332-5.JPG",
       "/images/lights/vanity-light/ACW12332-5.JPG",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   25: {
@@ -664,7 +664,7 @@ export const products = {
       "/images/lights/vanity-light/LCW17512-3.jpg",
       "/images/lights/vanity-light/LCW17512-3.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   26: {
@@ -675,7 +675,7 @@ export const products = {
       "/images/lights/vanity-light/LCW17512-4.jpg",
       "/images/lights/vanity-light/LCW17512-4.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   27: {
@@ -686,7 +686,7 @@ export const products = {
       "/images/lights/vanity-light/LCW17512-5.jpg",
       "/images/lights/vanity-light/LCW17512-5.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   28: {
@@ -697,7 +697,7 @@ export const products = {
       "/images/lights/vanity-light/LCW17513-3.jpg",
       "/images/lights/vanity-light/LCW17513-3.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   29: {
@@ -708,7 +708,7 @@ export const products = {
       "/images/lights/vanity-light/LCW17513-4.jpg",
       "/images/lights/vanity-light/LCW17513-4.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   30: {
@@ -719,7 +719,7 @@ export const products = {
       "/images/lights/vanity-light/LCW17513-5.jpg",
       "/images/lights/vanity-light/LCW17513-5.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   31: {
@@ -730,7 +730,7 @@ export const products = {
       "/images/lights/vanity-light/LCW17515-3-.jpg",
       "/images/lights/vanity-light/LCW17515-3-.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   32: {
@@ -741,7 +741,7 @@ export const products = {
       "/images/lights/vanity-light/LCW17515-4.jpg",
       "/images/lights/vanity-light/LCW17515-4.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   33: {
@@ -752,7 +752,7 @@ export const products = {
       "/images/lights/vanity-light/LD1195-600.JPG",
       "/images/lights/vanity-light/LD1195-600.JPG",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   34: {
@@ -763,7 +763,7 @@ export const products = {
       "/images/lights/vanity-light/LD8855-3.JPG",
       "/images/lights/vanity-light/LD8855-3.JPG",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   35: {
@@ -774,7 +774,7 @@ export const products = {
       "/images/lights/vanity-light/LD8855-4.JPG",
       "/images/lights/vanity-light/LD8855-4.JPG",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   36: {
@@ -785,7 +785,7 @@ export const products = {
       "/images/lights/vanity-light/LPW10419-3.jpg",
       "/images/lights/vanity-light/LPW10419-3.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   37: {
@@ -796,7 +796,7 @@ export const products = {
       "/images/lights/vanity-light/LPW10419-4.jpg",
       "/images/lights/vanity-light/LPW10419-4.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   38: {
@@ -807,7 +807,7 @@ export const products = {
       "/images/lights/vanity-light/LPW10419-5.jpg",
       "/images/lights/vanity-light/LPW10419-5.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   39: {
@@ -818,7 +818,7 @@ export const products = {
       "/images/lights/vanity-light/LPW15015-3.jpg",
       "/images/lights/vanity-light/LPW15015-3.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   40: {
@@ -829,7 +829,7 @@ export const products = {
       "/images/lights/vanity-light/LPW15019-3 BK.jpg",
       "/images/lights/vanity-light/LPW15019-3 BK.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   41: {
@@ -840,7 +840,7 @@ export const products = {
       "/images/lights/vanity-light/LPW15019-4 BK.JPG",
       "/images/lights/vanity-light/LPW15019-4 BK.JPG",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   42: {
@@ -851,7 +851,7 @@ export const products = {
       "/images/lights/vanity-light/LPW15019-4 CH.JPG",
       "/images/lights/vanity-light/LPW15019-4 CH.JPG",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   43: {
@@ -862,7 +862,7 @@ export const products = {
       "/images/lights/vanity-light/LPW15019-4-.jpg",
       "/images/lights/vanity-light/LPW15019-4-.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   44: {
@@ -873,7 +873,7 @@ export const products = {
       "/images/lights/vanity-light/LPW15020-4 CH+BK.JPG",
       "/images/lights/vanity-light/LPW15020-4 CH+BK.JPG",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   45: {
@@ -884,7 +884,7 @@ export const products = {
       "/images/lights/vanity-light/LPW15021-4.jpg",
       "/images/lights/vanity-light/LPW15021-4.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   46: {
@@ -895,7 +895,7 @@ export const products = {
       "/images/lights/vanity-light/W14145 2.psd",
       "/images/lights/vanity-light/W14145 2.psd",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   47: {
@@ -906,7 +906,7 @@ export const products = {
       "/images/lights/vanity-light/W14145.psd",
       "/images/lights/vanity-light/W14145.psd",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   48: {
@@ -917,7 +917,7 @@ export const products = {
       "/images/lights/vanity-light/WB1222-3.jpg",
       "/images/lights/vanity-light/WB1222-3.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   49: {
@@ -928,7 +928,7 @@ export const products = {
       "/images/lights/vanity-light/WB1222-4.jpg",
       "/images/lights/vanity-light/WB1222-4.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   50: {
@@ -939,7 +939,7 @@ export const products = {
       "/images/lights/vanity-light/WB1222-5.jpg",
       "/images/lights/vanity-light/WB1222-5.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   51: {
@@ -950,7 +950,7 @@ export const products = {
       "/images/lights/vanity-light/WB8802S-3.JPG",
       "/images/lights/vanity-light/WB8802S-3.JPG",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   52: {
@@ -961,7 +961,7 @@ export const products = {
       "/images/lights/vanity-light/WB8802S-5.JPG",
       "/images/lights/vanity-light/WB8802S-5.JPG",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   53: {
@@ -972,7 +972,7 @@ export const products = {
       "/images/lights/vanity-light/WB8802S-6.JPG",
       "/images/lights/vanity-light/WB8802S-6.JPG",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   54: {
@@ -983,7 +983,7 @@ export const products = {
       "/images/lights/wall-lights/03.jpg",
       "/images/lights/wall-lights/03.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   55: {
@@ -994,7 +994,7 @@ export const products = {
       "/images/lights/wall-lights/04.jpg",
       "/images/lights/wall-lights/04.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   56: {
@@ -1005,7 +1005,7 @@ export const products = {
       "/images/lights/wall-lights/14 Inch Up Down LED Wall Light 01.jpg",
       "/images/lights/wall-lights/14 Inch Up Down LED Wall Light 01.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   57: {
@@ -1016,7 +1016,7 @@ export const products = {
       "/images/lights/wall-lights/14 Inch Up Down LED Wall Light 04.jpg",
       "/images/lights/wall-lights/14 Inch Up Down LED Wall Light 04.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   58: {
@@ -1027,7 +1027,7 @@ export const products = {
       "/images/lights/wall-lights/14''.png",
       "/images/lights/wall-lights/14''.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   59: {
@@ -1038,7 +1038,7 @@ export const products = {
       "/images/lights/wall-lights/8-inch-12w-led-wall-light-2.jpg",
       "/images/lights/wall-lights/8-inch-12w-led-wall-light-2.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   60: {
@@ -1049,7 +1049,7 @@ export const products = {
       "/images/lights/wall-lights/8-inch-12w-led-wall-light-3.jpg",
       "/images/lights/wall-lights/8-inch-12w-led-wall-light-3.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   61: {
@@ -1060,7 +1060,7 @@ export const products = {
       "/images/lights/wall-lights/8-inch-12w-led-wall-light.jpg",
       "/images/lights/wall-lights/8-inch-12w-led-wall-light.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   62: {
@@ -1071,7 +1071,7 @@ export const products = {
       "/images/lights/wall-lights/8寸 三角壁灯.png",
       "/images/lights/wall-lights/8寸 三角壁灯.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   63: {
@@ -1082,7 +1082,7 @@ export const products = {
       "/images/lights/wall-lights/LPW10249 CP.png",
       "/images/lights/wall-lights/LPW10249 CP.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   64: {
@@ -1093,7 +1093,7 @@ export const products = {
       "/images/lights/wall-lights/LPW14322.jpg",
       "/images/lights/wall-lights/LPW14322.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   65: {
@@ -1104,7 +1104,7 @@ export const products = {
       "/images/lights/wall-lights/LPW14401-1 BK copy.jpeg",
       "/images/lights/wall-lights/LPW14401-1 BK copy.jpeg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   66: {
@@ -1115,7 +1115,7 @@ export const products = {
       "/images/lights/wall-lights/LPW15014-3.jpg",
       "/images/lights/wall-lights/LPW15014-3.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   67: {
@@ -1126,7 +1126,7 @@ export const products = {
       "/images/lights/wall-lights/LPW3007 GD.jpg",
       "/images/lights/wall-lights/LPW3007 GD.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   68: {
@@ -1137,7 +1137,7 @@ export const products = {
       "/images/lights/wall-lights/LPW9385.jpg",
       "/images/lights/wall-lights/LPW9385.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   69: {
@@ -1148,7 +1148,7 @@ export const products = {
       "/images/lights/chandelier/14088-600.JPG",
       "/images/lights/chandelier/14088-600.JPG",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   70: {
@@ -1159,7 +1159,7 @@ export const products = {
       "/images/lights/chandelier/14088-800+500.JPG",
       "/images/lights/chandelier/14088-800+500.JPG",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   71: {
@@ -1170,7 +1170,7 @@ export const products = {
       "/images/lights/chandelier/AC8599R-3-1.jpg",
       "/images/lights/chandelier/AC8599R-3-1.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   72: {
@@ -1181,7 +1181,7 @@ export const products = {
       "/images/lights/chandelier/AC8599R-4--.jpg",
       "/images/lights/chandelier/AC8599R-4--.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   73: {
@@ -1192,7 +1192,7 @@ export const products = {
       "/images/lights/chandelier/AC8599S-3.jpg",
       "/images/lights/chandelier/AC8599S-3.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   74: {
@@ -1203,7 +1203,7 @@ export const products = {
       "/images/lights/chandelier/AC8599S-6 GD.jpg",
       "/images/lights/chandelier/AC8599S-6 GD.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   75: {
@@ -1214,7 +1214,7 @@ export const products = {
       "/images/lights/chandelier/AC8802-1 D600 BK.jpg",
       "/images/lights/chandelier/AC8802-1 D600 BK.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   76: {
@@ -1225,7 +1225,7 @@ export const products = {
       "/images/lights/chandelier/AC8802-2 BK.JPG",
       "/images/lights/chandelier/AC8802-2 BK.JPG",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   77: {
@@ -1236,7 +1236,7 @@ export const products = {
       "/images/lights/chandelier/AC8802-5.jpg",
       "/images/lights/chandelier/AC8802-5.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   78: {
@@ -1247,7 +1247,7 @@ export const products = {
       "/images/lights/chandelier/AC8802-600+400+200.JPG",
       "/images/lights/chandelier/AC8802-600+400+200.JPG",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   79: {
@@ -1258,7 +1258,7 @@ export const products = {
       "/images/lights/single-pendant-lights/BC84004-3 D450 H500.jpg",
       "/images/lights/single-pendant-lights/BC84004-3 D450 H500.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   80: {
@@ -1269,7 +1269,7 @@ export const products = {
       "/images/lights/chandelier/BC84004-6GDD860H500MaxH1200.jpg",
       "/images/lights/chandelier/BC84004-6GDD860H500MaxH1200.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   81: {
@@ -1280,7 +1280,7 @@ export const products = {
       "/images/lights/chandelier/BC84004-8+4D860H500MaxH1200.jpg",
       "/images/lights/chandelier/BC84004-8+4D860H500MaxH1200.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   82: {
@@ -1291,7 +1291,7 @@ export const products = {
       "/images/lights/dinning-lights/BC84006-4 BK 720X180X180.jpg",
       "/images/lights/dinning-lights/BC84006-4 BK 720X180X180.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   83: {
@@ -1302,7 +1302,7 @@ export const products = {
       "/images/lights/dinning-lights/BC84006-5 BK 920X180X180.jpg",
       "/images/lights/dinning-lights/BC84006-5 BK 920X180X180.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   84: {
@@ -1313,7 +1313,7 @@ export const products = {
       "/images/lights/chandelier/BC84011-8+4.jpg",
       "/images/lights/chandelier/BC84011-8+4.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   85: {
@@ -1324,7 +1324,7 @@ export const products = {
       "/images/lights/single-pendant-lights/BC84023-1 BK.jpg",
       "/images/lights/single-pendant-lights/BC84023-1 BK.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   86: {
@@ -1335,7 +1335,7 @@ export const products = {
       "/images/lights/dinning-lights/BC84023-3L BK 2.jpg",
       "/images/lights/dinning-lights/BC84023-3L BK 2.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   87: {
@@ -1346,7 +1346,7 @@ export const products = {
       "/images/lights/dinning-lights/BC84023-3L GD.jpg",
       "/images/lights/dinning-lights/BC84023-3L GD.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   88: {
@@ -1357,7 +1357,7 @@ export const products = {
       "/images/lights/chandelier/BC84023-6R GD.jpg",
       "/images/lights/chandelier/BC84023-6R GD.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   89: {
@@ -1368,7 +1368,7 @@ export const products = {
       "/images/lights/chandelier/BC84023-7 BK.jpg",
       "/images/lights/chandelier/BC84023-7 BK.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   90: {
@@ -1379,7 +1379,7 @@ export const products = {
       "/images/lights/dinning-lights/BX84012-7 BK 1040X480X310.png",
       "/images/lights/dinning-lights/BX84012-7 BK 1040X480X310.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   91: {
@@ -1390,7 +1390,7 @@ export const products = {
       "/images/lights/chandelier/CA17533-61 BK.png",
       "/images/lights/chandelier/CA17533-61 BK.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   92: {
@@ -1401,7 +1401,7 @@ export const products = {
       "/images/lights/chandelier/CA17533-61 GD.png",
       "/images/lights/chandelier/CA17533-61 GD.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   93: {
@@ -1413,7 +1413,7 @@ export const products = {
       "/images/lights/chandelier/CB8693-3(D800+D600+D400mm)H1200mmLED87w2835led,materailsAluminu+ACrylic.JPG",
       "/images/lights/chandelier/CB8693-3(D800+D600+D400mm)H1200mmLED87w2835led,materailsAluminu+ACrylic.JPG",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   94: {
@@ -1425,7 +1425,7 @@ export const products = {
       "/images/lights/chandelier/CB8693-5(D800+D700+D600+D500+D400)LED97w2835led,materailsAluminu+ACrylic.JPG",
       "/images/lights/chandelier/CB8693-5(D800+D700+D600+D500+D400)LED97w2835led,materailsAluminu+ACrylic.JPG",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   95: {
@@ -1437,7 +1437,7 @@ export const products = {
       "/images/lights/chandelier/CB8730B-3 Pendant Light D350 H1200mm LED 24W Aluminum+acrylic+crystal.png",
       "/images/lights/chandelier/CB8730B-3 Pendant Light D350 H1200mm LED 24W Aluminum+acrylic+crystal.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   96: {
@@ -1448,7 +1448,7 @@ export const products = {
       "/images/lights/chandelier/CN8020-1000.JPG",
       "/images/lights/chandelier/CN8020-1000.JPG",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   97: {
@@ -1459,7 +1459,7 @@ export const products = {
       "/images/lights/chandelier/CN8020-600.jpg",
       "/images/lights/chandelier/CN8020-600.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   98: {
@@ -1470,7 +1470,7 @@ export const products = {
       "/images/lights/chandelier/LC83001-4.jpg",
       "/images/lights/chandelier/LC83001-4.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   99: {
@@ -1481,7 +1481,7 @@ export const products = {
       "/images/lights/chandelier/LC83007.JPG",
       "/images/lights/chandelier/LC83007.JPG",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   100: {
@@ -1492,7 +1492,7 @@ export const products = {
       "/images/lights/chandelier/LD10733-2.JPG",
       "/images/lights/chandelier/LD10733-2.JPG",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   101: {
@@ -1503,7 +1503,7 @@ export const products = {
       "/images/lights/chandelier/LD10733-3.JPG",
       "/images/lights/chandelier/LD10733-3.JPG",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   102: {
@@ -1514,7 +1514,7 @@ export const products = {
       "/images/lights/chandelier/LD6805-400+200.jpg",
       "/images/lights/chandelier/LD6805-400+200.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   103: {
@@ -1525,7 +1525,7 @@ export const products = {
       "/images/lights/chandelier/LD6805-6.png",
       "/images/lights/chandelier/LD6805-6.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   104: {
@@ -1536,7 +1536,7 @@ export const products = {
       "/images/lights/chandelier/LD8802-200.JPG",
       "/images/lights/chandelier/LD8802-200.JPG",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   105: {
@@ -1547,7 +1547,7 @@ export const products = {
       "/images/lights/chandelier/LD9045.jpg",
       "/images/lights/chandelier/LD9045.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   106: {
@@ -1558,7 +1558,7 @@ export const products = {
       "/images/lights/single-pendant-lights/LP3196-4 BK.jpg",
       "/images/lights/single-pendant-lights/LP3196-4 BK.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   107: {
@@ -1569,7 +1569,7 @@ export const products = {
       "/images/lights/single-pendant-lights/LP3196-4 GD.jpg",
       "/images/lights/single-pendant-lights/LP3196-4 GD.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   109: {
@@ -1580,7 +1580,7 @@ export const products = {
       "/images/lights/single-pendant-lights/LPC14195.jpg",
       "/images/lights/single-pendant-lights/LPC14195.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   110: {
@@ -1591,7 +1591,7 @@ export const products = {
       "/images/lights/chandelier/LPD17500R-46 BK.jpg",
       "/images/lights/chandelier/LPD17500R-46 BK.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   111: {
@@ -1602,7 +1602,7 @@ export const products = {
       "/images/lights/chandelier/LPD17500R-5 BK.jpg",
       "/images/lights/chandelier/LPD17500R-5 BK.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   112: {
@@ -1613,7 +1613,7 @@ export const products = {
       "/images/lights/chandelier/LPD17530-23 BK.jpg",
       "/images/lights/chandelier/LPD17530-23 BK.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   114: {
@@ -1624,7 +1624,7 @@ export const products = {
       "/images/lights/chandelier/LPD17530-7.jpg",
       "/images/lights/chandelier/LPD17530-7.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "09/29/2025",
   },
   115: {
@@ -1636,7 +1636,6 @@ export const products = {
       "/images/lights/kendal-lights/PTL8705-BRS.jpg",
     ],
     name: "PTL8705-BRS",
-    tag: "New Arrivals",
   },
   116: {
     addDate: "11/16/2025",
@@ -1647,7 +1646,6 @@ export const products = {
       "/images/lights/kendal-lights/PTL6401-BLK.jpg",
     ],
     name: "PTL6401-BLK",
-    tag: "New Arrivals",
   },
   117: {
     addDate: "11/16/2025",
@@ -1658,7 +1656,6 @@ export const products = {
       "/images/lights/kendal-lights/PTL6201-BLK.jpg",
     ],
     name: "PTL6201-BLK",
-    tag: "New Arrivals",
   },
   118: {
     addDate: "11/16/2025",
@@ -1669,7 +1666,6 @@ export const products = {
       "/images/lights/kendal-lights/PTL6901-BRS.jpg",
     ],
     name: "PTL6901-BRS",
-    tag: "New Arrivals",
   },
   119: {
     addDate: "11/16/2025",
@@ -1680,7 +1676,6 @@ export const products = {
       "/images/lights/kendal-lights/PTL4094-BLK.jpg",
     ],
     name: "PTL4094-BLK",
-    tag: "New Arrivals",
   },
   120: {
     addDate: "11/16/2025",
@@ -1691,7 +1686,6 @@ export const products = {
       "/images/lights/kendal-lights/PTL5020-BLK.jpg",
     ],
     name: "PTL5020-BLK",
-    tag: "New Arrivals",
   },
   121: {
     addDate: "11/16/2025",
@@ -1702,7 +1696,6 @@ export const products = {
       "/images/lights/kendal-lights/PTL5021-BLK.jpg",
     ],
     name: "PTL5021-BLK",
-    tag: "New Arrivals",
   },
   122: {
     addDate: "11/16/2025",
@@ -1713,7 +1706,6 @@ export const products = {
       "/images/lights/kendal-lights/PTL5015-SN.jpg",
     ],
     name: "PTL5015-SN",
-    tag: "New Arrivals",
   },
   123: {
     addDate: "11/16/2025",
@@ -1724,7 +1716,6 @@ export const products = {
       "/images/lights/kendal-lights/PTL5006-BLK.jpg",
     ],
     name: "PTL5006-BLK",
-    tag: "New Arrivals",
   },
   124: {
     addDate: "11/16/2025",
@@ -1735,7 +1726,6 @@ export const products = {
       "/images/lights/kendal-lights/PTL5007-BLK.jpg",
     ],
     name: "PTL5007-BLK",
-    tag: "New Arrivals",
   },
   125: {
     addDate: "11/16/2025",
@@ -1746,7 +1736,6 @@ export const products = {
       "/images/lights/kendal-lights/PTL4094-SN.jpg",
     ],
     name: "PTL4094-SN",
-    tag: "New Arrivals",
   },
   126: {
     addDate: "11/16/2025",
@@ -1757,7 +1746,6 @@ export const products = {
       "/images/lights/kendal-lights/PTL5002-BLK.jpg",
     ],
     name: "PTL5002-BLK",
-    tag: "New Arrivals",
   },
   127: {
     name: "PTL8708-CH",
@@ -1767,7 +1755,7 @@ export const products = {
       "/images/lights/kendal-lights/PTL8708-CH.jpg",
       "/images/lights/kendal-lights/PTL8708-CH.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   128: {
@@ -1778,7 +1766,7 @@ export const products = {
       "/images/lights/kendal-lights/PTL8708-BRS.jpg",
       "/images/lights/kendal-lights/PTL8708-BRS.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   129: {
@@ -1789,7 +1777,7 @@ export const products = {
       "/images/lights/kendal-lights/PTL8708-BLK.jpg",
       "/images/lights/kendal-lights/PTL8708-BLK.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   130: {
@@ -1800,7 +1788,7 @@ export const products = {
       "/images/lights/kendal-lights/PTL5008-OCB.jpg",
       "/images/lights/kendal-lights/PTL5008-OCB.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   131: {
@@ -1811,7 +1799,7 @@ export const products = {
       "/images/lights/kendal-lights/PTL5008-SV.jpg",
       "/images/lights/kendal-lights/PTL5008-SV.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   132: {
@@ -1822,7 +1810,7 @@ export const products = {
       "/images/lights/kendal-lights/PTL5010-BLK.jpg",
       "/images/lights/kendal-lights/PTL5010-BLK.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   133: {
@@ -1833,7 +1821,7 @@ export const products = {
       "/images/lights/kendal-lights/PTL7816-CH.jpg",
       "/images/lights/kendal-lights/PTL7816-CH.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   134: {
@@ -1844,7 +1832,7 @@ export const products = {
       "/images/lights/kendal-lights/PTL8015-CH.jpg",
       "/images/lights/kendal-lights/PTL8015-CH.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   135: {
@@ -1855,7 +1843,7 @@ export const products = {
       "/images/lights/kendal-lights/PTL4092-CH.jpg",
       "/images/lights/kendal-lights/PTL4092-CH.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   136: {
@@ -1867,7 +1855,6 @@ export const products = {
       "/images/lights/kendal-lights/FL8702-BRSBLK.jpg",
     ],
     name: "FL8702-BRS/BLK",
-    tag: "New Arrivals",
   },
   137: {
     addDate: "11/16/2025",
@@ -1878,7 +1865,6 @@ export const products = {
       "/images/lights/kendal-lights/FL8705-BRS.jpg",
     ],
     name: "FL8705-BRS",
-    tag: "New Arrivals",
   },
   138: {
     addDate: "11/16/2025",
@@ -1889,7 +1875,6 @@ export const products = {
       "/images/lights/kendal-lights/FL6601-BLKBRS.jpg",
     ],
     name: "FL6601-BLK/BRS",
-    tag: "New Arrivals",
   },
   139: {
     addDate: "11/16/2025",
@@ -1900,7 +1885,6 @@ export const products = {
       "/images/lights/kendal-lights/FL6401-BLK.jpg",
     ],
     name: "FL6401-BLK",
-    tag: "New Arrivals",
   },
   140: {
     addDate: "11/16/2025",
@@ -1911,7 +1895,6 @@ export const products = {
       "/images/lights/kendal-lights/FL6201-BLK.jpg",
     ],
     name: "FL6201-BLK",
-    tag: "New Arrivals",
   },
   141: {
     addDate: "11/16/2025",
@@ -1922,7 +1905,6 @@ export const products = {
       "/images/lights/kendal-lights/FL7101-BLK.jpg",
     ],
     name: "FL7101-BLK",
-    tag: "New Arrivals",
   },
   142: {
     addDate: "11/16/2025",
@@ -1933,7 +1915,6 @@ export const products = {
       "/images/lights/kendal-lights/FL7001-BLKSS.jpg",
     ],
     name: "FL7001-BLK/SS",
-    tag: "New Arrivals",
   },
   143: {
     addDate: "11/16/2025",
@@ -1944,7 +1925,6 @@ export const products = {
       "/images/lights/kendal-lights/FL4048-2-BRS.jpg",
     ],
     name: "FL4048-2-BRS",
-    tag: "New Arrivals",
   },
   144: {
     addDate: "11/16/2025",
@@ -1955,7 +1935,6 @@ export const products = {
       "/images/lights/kendal-lights/FL4048-BLK.jpg",
     ],
     name: "FL4048-BLK",
-    tag: "New Arrivals",
   },
   145: {
     addDate: "11/16/2025",
@@ -1966,7 +1945,6 @@ export const products = {
       "/images/lights/kendal-lights/FL5021-SN.jpg",
     ],
     name: "FL5021-SN",
-    tag: "New Arrivals",
   },
   146: {
     addDate: "11/16/2025",
@@ -1977,7 +1955,6 @@ export const products = {
       "/images/lights/kendal-lights/FL5015-SN.jpg",
     ],
     name: "FL5015-SN",
-    tag: "New Arrivals",
   },
   147: {
     name: "TC5024-BLK/SN",
@@ -1987,7 +1964,7 @@ export const products = {
       "/images/lights/kendal-lights/TC5024-BLKSN.jpg",
       "/images/lights/kendal-lights/TC5024-BLKSN.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   148: {
@@ -1998,7 +1975,7 @@ export const products = {
       "/images/lights/kendal-lights/TC5023-BLKBRS.jpg",
       "/images/lights/kendal-lights/TC5023-BLKBRS.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   149: {
@@ -2009,7 +1986,7 @@ export const products = {
       "/images/lights/kendal-lights/TC5020-BLK.jpg",
       "/images/lights/kendal-lights/TC5020-BLK.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   150: {
@@ -2020,7 +1997,7 @@ export const products = {
       "/images/lights/kendal-lights/TC5020-SN.jpg",
       "/images/lights/kendal-lights/TC5020-SN.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   151: {
@@ -2031,7 +2008,7 @@ export const products = {
       "/images/lights/kendal-lights/TC5021-BLK.jpg",
       "/images/lights/kendal-lights/TC5021-BLK.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   152: {
@@ -2042,7 +2019,7 @@ export const products = {
       "/images/lights/kendal-lights/TC5021-SN.jpg",
       "/images/lights/kendal-lights/TC5021-SN.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   153: {
@@ -2053,7 +2030,7 @@ export const products = {
       "/images/lights/kendal-lights/TC5011-BLK.jpg",
       "/images/lights/kendal-lights/TC5011-BLK.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   154: {
@@ -2064,7 +2041,7 @@ export const products = {
       "/images/lights/kendal-lights/TC5011-SN.jpg",
       "/images/lights/kendal-lights/TC5011-SN.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   155: {
@@ -2075,7 +2052,7 @@ export const products = {
       "/images/lights/kendal-lights/TC5012-BLKSN.jpg",
       "/images/lights/kendal-lights/TC5012-BLKSN.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   156: {
@@ -2086,7 +2063,7 @@ export const products = {
       "/images/lights/kendal-lights/TC5012-SN.jpg",
       "/images/lights/kendal-lights/TC5012-SN.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   157: {
@@ -2098,7 +2075,6 @@ export const products = {
       "/images/lights/kendal-lights/PF279-8LRT-BLK.png",
     ],
     name: "PF279-8LRT-BLK",
-    tag: "New Arrivals",
   },
   158: {
     addDate: "11/16/2025",
@@ -2109,7 +2085,6 @@ export const products = {
       "/images/lights/kendal-lights/PF279-13LPA-BLK.png",
     ],
     name: "PF279-13LPA-BLK",
-    tag: "New Arrivals",
   },
   159: {
     addDate: "11/16/2025",
@@ -2120,7 +2095,6 @@ export const products = {
       "/images/lights/kendal-lights/PF279-1LPE-BLK.png",
     ],
     name: "PF279-1LPE-BLK",
-    tag: "New Arrivals",
   },
   160: {
     addDate: "11/16/2025",
@@ -2131,7 +2105,6 @@ export const products = {
       "/images/lights/kendal-lights/PF276-BRS.jpg",
     ],
     name: "PF276-BRS",
-    tag: "New Arrivals",
   },
   161: {
     addDate: "11/16/2025",
@@ -2142,7 +2115,6 @@ export const products = {
       "/images/lights/kendal-lights/PF268-BLKCLR.jpg",
     ],
     name: "PF268-BLK/CLR",
-    tag: "New Arrivals",
   },
   162: {
     addDate: "11/16/2025",
@@ -2153,7 +2125,6 @@ export const products = {
       "/images/lights/kendal-lights/PF269-BLKCLR.jpg",
     ],
     name: "PF269-BLK/CLR",
-    tag: "New Arrivals",
   },
   163: {
     addDate: "11/16/2025",
@@ -2164,7 +2135,6 @@ export const products = {
       "/images/lights/kendal-lights/PF269-3LPA-BRSCLR.jpg",
     ],
     name: "PF269-3LPA-BRS/CLR",
-    tag: "New Arrivals",
   },
   164: {
     addDate: "11/16/2025",
@@ -2175,7 +2145,6 @@ export const products = {
       "/images/lights/kendal-lights/PF269-5LPA-BRSCLR.jpg",
     ],
     name: "PF269-5LPA-BRS/CLR",
-    tag: "New Arrivals",
   },
   165: {
     addDate: "11/16/2025",
@@ -2186,7 +2155,6 @@ export const products = {
       "/images/lights/kendal-lights/PF271-3LPA-BLK.jpg",
     ],
     name: "PF271-3LPA-BLK",
-    tag: "New Arrivals",
   },
   166: {
     addDate: "11/16/2025",
@@ -2197,7 +2165,6 @@ export const products = {
       "/images/lights/kendal-lights/PF265-6LRT-BLK.jpg",
     ],
     name: "PF265-6LRT-BLK",
-    tag: "New Arrivals",
   },
   167: {
     addDate: "11/16/2025",
@@ -2208,7 +2175,6 @@ export const products = {
       "/images/lights/kendal-lights/PF328-5LBR-BLKBRS.jpg",
     ],
     name: "PF328-5LBR-BLK/BRS",
-    tag: "New Arrivals",
   },
   168: {
     addDate: "11/16/2025",
@@ -2219,7 +2185,6 @@ export const products = {
       "/images/lights/kendal-lights/PF321-9LBR-BLK.jpg",
     ],
     name: "PF321-9LBR-BLK",
-    tag: "New Arrivals",
   },
   169: {
     addDate: "11/16/2025",
@@ -2230,7 +2195,6 @@ export const products = {
       "/images/lights/kendal-lights/PF310-BLK.jpg",
     ],
     name: "PF310-BLK",
-    tag: "New Arrivals",
   },
   170: {
     addDate: "11/16/2025",
@@ -2241,7 +2205,6 @@ export const products = {
       "/images/lights/kendal-lights/VF1824-BRS.jpg",
     ],
     name: "VF1824-BRS",
-    tag: "New Arrivals",
   },
   171: {
     addDate: "11/16/2025",
@@ -2252,7 +2215,6 @@ export const products = {
       "/images/lights/kendal-lights/VF8300-6L-CHBLK.jpg",
     ],
     name: "VF8300-6L-CH/BLK",
-    tag: "New Arrivals",
   },
   172: {
     addDate: "11/16/2025",
@@ -2263,7 +2225,6 @@ export const products = {
       "/images/lights/kendal-lights/VF1500-CH.jpg",
     ],
     name: "VF1500-CH",
-    tag: "New Arrivals",
   },
   173: {
     addDate: "11/16/2025",
@@ -2274,7 +2235,6 @@ export const products = {
       "/images/lights/kendal-lights/VF1830-CH.jpg",
     ],
     name: "VF1830-CH",
-    tag: "New Arrivals",
   },
   174: {
     addDate: "11/16/2025",
@@ -2285,7 +2245,6 @@ export const products = {
       "/images/lights/kendal-lights/VF2030-CH.jpg",
     ],
     name: "VF2030-CH",
-    tag: "New Arrivals",
   },
   175: {
     addDate: "11/16/2025",
@@ -2296,7 +2255,6 @@ export const products = {
       "/images/lights/kendal-lights/VF2224-CH.jpg",
     ],
     name: "VF2224-CH",
-    tag: "New Arrivals",
   },
   176: {
     addDate: "11/16/2025",
@@ -2307,7 +2265,6 @@ export const products = {
       "/images/lights/kendal-lights/VF2236-CH.jpg",
     ],
     name: "VF2236-CH",
-    tag: "New Arrivals",
   },
   177: {
     addDate: "11/16/2025",
@@ -2318,7 +2275,6 @@ export const products = {
       "/images/lights/kendal-lights/VF2323-CH.jpg",
     ],
     name: "VF2323-CH",
-    tag: "New Arrivals",
   },
   178: {
     addDate: "11/16/2025",
@@ -2329,7 +2285,6 @@ export const products = {
       "/images/lights/kendal-lights/VF2331-CH.jpg",
     ],
     name: "VF2331-CH",
-    tag: "New Arrivals",
   },
   179: {
     addDate: "11/16/2025",
@@ -2340,7 +2295,6 @@ export const products = {
       "/images/lights/kendal-lights/VF2710-3L-CH.jpg",
     ],
     name: "VF2710-3L-CH",
-    tag: "New Arrivals",
   },
   180: {
     addDate: "11/16/2025",
@@ -2351,7 +2305,6 @@ export const products = {
       "/images/lights/kendal-lights/VF8800-5L-CH.jpg",
     ],
     name: "VF8800-5L-CH",
-    tag: "New Arrivals",
   },
   181: {
     addDate: "11/16/2025",
@@ -2362,7 +2315,6 @@ export const products = {
       "/images/lights/kendal-lights/VF7200-1L-CH.jpg",
     ],
     name: "VF7200-1L-CH",
-    tag: "New Arrivals",
   },
   182: {
     addDate: "11/16/2025",
@@ -2373,7 +2325,6 @@ export const products = {
       "/images/lights/kendal-lights/VF7200-3L-CH.jpg",
     ],
     name: "VF7200-3L-CH",
-    tag: "New Arrivals",
   },
   183: {
     addDate: "11/16/2025",
@@ -2384,7 +2335,6 @@ export const products = {
       "/images/lights/kendal-lights/VF7400-1L-CH.jpg",
     ],
     name: "VF7400-1L-CH",
-    tag: "New Arrivals",
   },
   184: {
     addDate: "11/16/2025",
@@ -2395,7 +2345,6 @@ export const products = {
       "/images/lights/kendal-lights/VF7400-3L-CH.jpg",
     ],
     name: "VF7400-3L-CH",
-    tag: "New Arrivals",
   },
   185: {
     addDate: "11/16/2025",
@@ -2406,7 +2355,6 @@ export const products = {
       "/images/lights/kendal-lights/VF4000-1L-CH.jpg",
     ],
     name: "VF4000-1L-CH",
-    tag: "New Arrivals",
   },
   186: {
     addDate: "11/16/2025",
@@ -2417,7 +2365,6 @@ export const products = {
       "/images/lights/kendal-lights/VF4000-3L-CH.jpg",
     ],
     name: "VF4000-3L-CH",
-    tag: "New Arrivals",
   },
   187: {
     addDate: "11/16/2025",
@@ -2428,7 +2375,6 @@ export const products = {
       "/images/lights/kendal-lights/VF2500-3L-CH.jpg",
     ],
     name: "VF2500-3L-CH",
-    tag: "New Arrivals",
   },
   188: {
     addDate: "11/16/2025",
@@ -2439,7 +2385,6 @@ export const products = {
       "/images/lights/kendal-lights/VF2400-1L-SN.jpg",
     ],
     name: "VF2400-1L-SN",
-    tag: "New Arrivals",
   },
   189: {
     addDate: "11/16/2025",
@@ -2450,7 +2395,6 @@ export const products = {
       "/images/lights/kendal-lights/VF2400-5L-CH.jpg",
     ],
     name: "VF2400-5L-CH",
-    tag: "New Arrivals",
   },
   190: {
     name: "VF3400-1L-CH",
@@ -2460,7 +2404,7 @@ export const products = {
       "/images/lights/kendal-lights/VF3400-1L-CH.jpg",
       "/images/lights/kendal-lights/VF3400-1L-CH.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   191: {
@@ -2471,7 +2415,7 @@ export const products = {
       "/images/lights/kendal-lights/VF3400-1L-SN.jpg",
       "/images/lights/kendal-lights/VF3400-1L-SN.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   192: {
@@ -2482,7 +2426,7 @@ export const products = {
       "/images/lights/kendal-lights/VF3400-2L-CH.jpg",
       "/images/lights/kendal-lights/VF3400-2L-CH.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   193: {
@@ -2493,7 +2437,7 @@ export const products = {
       "/images/lights/kendal-lights/VF3400-2L-SN.jpg",
       "/images/lights/kendal-lights/VF3400-2L-SN.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   194: {
@@ -2505,7 +2449,6 @@ export const products = {
       "/images/lights/kendal-lights/TLED-56-BLK.jpg",
     ],
     name: "TLED-56-BLK",
-    tag: "New Arrivals",
   },
   195: {
     addDate: "11/16/2025",
@@ -2516,7 +2459,6 @@ export const products = {
       "/images/lights/kendal-lights/TLED-57-MWH.jpg",
     ],
     name: "TLED-57-MWH",
-    tag: "New Arrivals",
   },
   196: {
     addDate: "11/16/2025",
@@ -2527,7 +2469,6 @@ export const products = {
       "/images/lights/kendal-lights/TLED-58-BLK.jpg",
     ],
     name: "TLED-58-BLK",
-    tag: "New Arrivals",
   },
   197: {
     addDate: "11/16/2025",
@@ -2538,7 +2479,6 @@ export const products = {
       "/images/lights/kendal-lights/TLED-59-MWH.jpg",
     ],
     name: "TLED-59-MWH",
-    tag: "New Arrivals",
   },
   198: {
     addDate: "11/16/2025",
@@ -2549,7 +2489,6 @@ export const products = {
       "/images/lights/kendal-lights/TLED-60-BLK.jpg",
     ],
     name: "TLED-60-BLK",
-    tag: "New Arrivals",
   },
   199: {
     addDate: "11/16/2025",
@@ -2560,7 +2499,6 @@ export const products = {
       "/images/lights/kendal-lights/TLED-61-MWH.jpg",
     ],
     name: "TLED-61-MWH",
-    tag: "New Arrivals",
   },
   200: {
     addDate: "11/16/2025",
@@ -2571,7 +2509,6 @@ export const products = {
       "/images/lights/kendal-lights/TLED-62-BLK.jpg",
     ],
     name: "TLED-62-BLK",
-    tag: "New Arrivals",
   },
   201: {
     addDate: "11/16/2025",
@@ -2582,7 +2519,6 @@ export const products = {
       "/images/lights/kendal-lights/TLED-82-MWH.jpg",
     ],
     name: "TLED-82-MWH",
-    tag: "New Arrivals",
   },
   202: {
     addDate: "11/16/2025",
@@ -2593,7 +2529,6 @@ export const products = {
       "/images/lights/kendal-lights/TLED-84-MWH.jpg",
     ],
     name: "TLED-84-MWH",
-    tag: "New Arrivals",
   },
   203: {
     addDate: "11/16/2025",
@@ -2604,7 +2539,6 @@ export const products = {
       "/images/lights/kendal-lights/TLED-50-MWH.jpg",
     ],
     name: "TLED-50-MWH",
-    tag: "New Arrivals",
   },
   204: {
     addDate: "11/16/2025",
@@ -2615,7 +2549,6 @@ export const products = {
       "/images/lights/kendal-lights/TLED-53-BLK.jpg",
     ],
     name: "TLED-53-BLK",
-    tag: "New Arrivals",
   },
   205: {
     addDate: "11/16/2025",
@@ -2626,7 +2559,6 @@ export const products = {
       "/images/lights/kendal-lights/TLED-14-BLK.jpg",
     ],
     name: "TLED-14-BLK",
-    tag: "New Arrivals",
   },
   206: {
     addDate: "11/16/2025",
@@ -2637,7 +2569,6 @@ export const products = {
       "/images/lights/kendal-lights/TLED-12DW-BLK.jpg",
     ],
     name: "TLED-12DW-BLK",
-    tag: "New Arrivals",
   },
   207: {
     name: "MS2S-CF-BLK",
@@ -2648,7 +2579,7 @@ export const products = {
       "/images/lights/kendal-lights/MS2S-CF-BLK.jpg",
       "/images/lights/kendal-lights/MS2S-CF-BLK.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   208: {
@@ -2660,7 +2591,7 @@ export const products = {
       "/images/lights/kendal-lights/MS3S-CF-WH.jpg",
       "/images/lights/kendal-lights/MS3S-CF-WH.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   209: {
@@ -2672,7 +2603,7 @@ export const products = {
       "/images/lights/kendal-lights/MS3S-CF-BLK.jpg",
       "/images/lights/kendal-lights/MS3S-CF-BLK.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   210: {
@@ -2683,7 +2614,7 @@ export const products = {
       "/images/lights/kendal-lights/MS1S-BLK.jpg",
       "/images/lights/kendal-lights/MS1S-BLK.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   211: {
@@ -2694,7 +2625,7 @@ export const products = {
       "/images/lights/kendal-lights/MS1S-WH.jpg",
       "/images/lights/kendal-lights/MS1S-WH.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   212: {
@@ -2705,7 +2636,7 @@ export const products = {
       "/images/lights/kendal-lights/MS1R-BLK.jpg",
       "/images/lights/kendal-lights/MS1R-BLK.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   213: {
@@ -2716,7 +2647,7 @@ export const products = {
       "/images/lights/kendal-lights/MS1R-WH.jpg",
       "/images/lights/kendal-lights/MS1R-WH.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   214: {
@@ -2728,7 +2659,7 @@ export const products = {
       "/images/lights/kendal-lights/MS2S-CF-WH.jpg",
       "/images/lights/kendal-lights/MS2S-CF-WH.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   215: {
@@ -2739,7 +2670,7 @@ export const products = {
       "/images/lights/kendal-lights/MS2R-BLK.jpg",
       "/images/lights/kendal-lights/MS2R-BLK.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   216: {
@@ -2750,7 +2681,7 @@ export const products = {
       "/images/lights/kendal-lights/MS2R-WH.jpg",
       "/images/lights/kendal-lights/MS2R-WH.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   217: {
@@ -2761,7 +2692,7 @@ export const products = {
       "/images/lights/kendal-lights/MS3R-BLK.jpg",
       "/images/lights/kendal-lights/MS3R-BLK.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   218: {
@@ -2772,7 +2703,7 @@ export const products = {
       "/images/lights/kendal-lights/MS3R-WH.jpg",
       "/images/lights/kendal-lights/MS3R-WH.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   219: {
@@ -2784,7 +2715,6 @@ export const products = {
       "/images/lights/kendal-lights/MSL111-BLK.jpg",
     ],
     name: "MSL111-BLK",
-    tag: "New Arrivals",
   },
   220: {
     addDate: "11/16/2025",
@@ -2795,7 +2725,6 @@ export const products = {
       "/images/lights/kendal-lights/MSL112-WH.jpg",
     ],
     name: "MSL112-WH",
-    tag: "New Arrivals",
   },
   221: {
     addDate: "11/16/2025",
@@ -2806,7 +2735,6 @@ export const products = {
       "/images/lights/kendal-lights/MSL113-BLK.jpg",
     ],
     name: "MSL113-BLK",
-    tag: "New Arrivals",
   },
   222: {
     addDate: "11/16/2025",
@@ -2817,7 +2745,6 @@ export const products = {
       "/images/lights/kendal-lights/MSL121-WH.jpg",
     ],
     name: "MSL121-WH",
-    tag: "New Arrivals",
   },
   223: {
     addDate: "11/16/2025",
@@ -2828,7 +2755,6 @@ export const products = {
       "/images/lights/kendal-lights/MSL122-BLK.jpg",
     ],
     name: "MSL122-BLK",
-    tag: "New Arrivals",
   },
   224: {
     addDate: "11/16/2025",
@@ -2839,7 +2765,6 @@ export const products = {
       "/images/lights/kendal-lights/MSL131-BLK.jpg",
     ],
     name: "MSL131-BLK",
-    tag: "New Arrivals",
   },
   225: {
     addDate: "11/16/2025",
@@ -2850,7 +2775,6 @@ export const products = {
       "/images/lights/kendal-lights/MSL141-BLK.jpg",
     ],
     name: "MSL141-BLK",
-    tag: "New Arrivals",
   },
   226: {
     addDate: "11/16/2025",
@@ -2861,7 +2785,6 @@ export const products = {
       "/images/lights/kendal-lights/MSL141-WH.jpg",
     ],
     name: "MSL141-WH",
-    tag: "New Arrivals",
   },
   227: {
     addDate: "11/16/2025",
@@ -2872,7 +2795,6 @@ export const products = {
       "/images/lights/kendal-lights/MSL152-BLK.jpg",
     ],
     name: "MSL152-BLK",
-    tag: "New Arrivals",
   },
   228: {
     addDate: "11/16/2025",
@@ -2883,7 +2805,6 @@ export const products = {
       "/images/lights/kendal-lights/MSL152-WH.jpg",
     ],
     name: "MSL152-WH",
-    tag: "New Arrivals",
   },
   229: {
     name: "MSP301-BLK",
@@ -2893,7 +2814,7 @@ export const products = {
       "/images/lights/kendal-lights/MSP301-BLK.jpg",
       "/images/lights/kendal-lights/MSP301-BLK.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   230: {
@@ -2904,7 +2825,7 @@ export const products = {
       "/images/lights/kendal-lights/MSP301-WH.jpg",
       "/images/lights/kendal-lights/MSP301-WH.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   231: {
@@ -2915,7 +2836,7 @@ export const products = {
       "/images/lights/kendal-lights/MSP302-BLK.jpg",
       "/images/lights/kendal-lights/MSP302-BLK.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   232: {
@@ -2926,7 +2847,7 @@ export const products = {
       "/images/lights/kendal-lights/MSP302-WH.jpg",
       "/images/lights/kendal-lights/MSP302-WH.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   233: {
@@ -2937,7 +2858,7 @@ export const products = {
       "/images/lights/kendal-lights/MSP303-BLK.jpg",
       "/images/lights/kendal-lights/MSP303-BLK.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   234: {
@@ -2948,7 +2869,7 @@ export const products = {
       "/images/lights/kendal-lights/MSP303-WH.jpg",
       "/images/lights/kendal-lights/MSP303-WH.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   235: {
@@ -2959,7 +2880,7 @@ export const products = {
       "/images/lights/kendal-lights/MSP304-BLK.jpg",
       "/images/lights/kendal-lights/MSP304-BLK.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   236: {
@@ -2970,7 +2891,7 @@ export const products = {
       "/images/lights/kendal-lights/MSP304-WH.jpg",
       "/images/lights/kendal-lights/MSP304-WH.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   237: {
@@ -2981,7 +2902,7 @@ export const products = {
       "/images/lights/kendal-lights/MSP305-BLK.jpg",
       "/images/lights/kendal-lights/MSP305-BLK.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   238: {
@@ -2992,7 +2913,7 @@ export const products = {
       "/images/lights/kendal-lights/MSP305-WH.jpg",
       "/images/lights/kendal-lights/MSP305-WH.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   239: {
@@ -3003,7 +2924,7 @@ export const products = {
       "/images/lights/kendal-lights/MSP306-BLK.jpg",
       "/images/lights/kendal-lights/MSP306-BLK.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   240: {
@@ -3014,7 +2935,7 @@ export const products = {
       "/images/lights/kendal-lights/MSP306-WH.jpg",
       "/images/lights/kendal-lights/MSP306-WH.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   241: {
@@ -3025,7 +2946,7 @@ export const products = {
       "/images/lights/kendal-lights/MSP307-BLK.jpg",
       "/images/lights/kendal-lights/MSP307-BLK.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
   242: {
@@ -3036,7 +2957,7 @@ export const products = {
       "/images/lights/kendal-lights/MSP307-WH.jpg",
       "/images/lights/kendal-lights/MSP307-WH.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/16/2025",
   },
 
@@ -3048,7 +2969,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT2406.png",
       "/images/lights/litup-lighting/LIT2406.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   244: {
@@ -3059,7 +2980,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT2430.png",
       "/images/lights/litup-lighting/LIT2430.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   245: {
@@ -3070,7 +2991,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT2431.png",
       "/images/lights/litup-lighting/LIT2431.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   246: {
@@ -3081,7 +3002,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT2432.png",
       "/images/lights/litup-lighting/LIT2432.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   247: {
@@ -3092,7 +3013,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT2433.png",
       "/images/lights/litup-lighting/LIT2433.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   248: {
@@ -3103,7 +3024,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT2434.png",
       "/images/lights/litup-lighting/LIT2434.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   249: {
@@ -3114,7 +3035,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT2435.png",
       "/images/lights/litup-lighting/LIT2435.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   250: {
@@ -3125,7 +3046,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT2441.png",
       "/images/lights/litup-lighting/LIT2441.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   251: {
@@ -3136,7 +3057,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT2442.png",
       "/images/lights/litup-lighting/LIT2442.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   252: {
@@ -3147,7 +3068,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT2484.png",
       "/images/lights/litup-lighting/LIT2484.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   253: {
@@ -3158,7 +3079,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT2487.png",
       "/images/lights/litup-lighting/LIT2487.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   254: {
@@ -3169,7 +3090,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT2532.png",
       "/images/lights/litup-lighting/LIT2532.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   255: {
@@ -3180,7 +3101,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT2533BK+MC.png",
       "/images/lights/litup-lighting/LIT2533BK+MC.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   256: {
@@ -3191,7 +3112,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT2533SN+MC.png",
       "/images/lights/litup-lighting/LIT2533SN+MC.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   257: {
@@ -3202,7 +3123,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3330.png",
       "/images/lights/litup-lighting/LIT3330.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   258: {
@@ -3213,7 +3134,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3341.png",
       "/images/lights/litup-lighting/LIT3341.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   259: {
@@ -3224,7 +3145,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3342.png",
       "/images/lights/litup-lighting/LIT3342.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   260: {
@@ -3235,7 +3156,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3342SN+MC.png",
       "/images/lights/litup-lighting/LIT3342SN+MC.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   261: {
@@ -3246,7 +3167,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT2730.png",
       "/images/lights/litup-lighting/LIT2730.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   262: {
@@ -3257,7 +3178,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT2732.png",
       "/images/lights/litup-lighting/LIT2732.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   263: {
@@ -3268,7 +3189,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT2742.png",
       "/images/lights/litup-lighting/LIT2742.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   264: {
@@ -3279,7 +3200,7 @@ export const products = {
       "/images/lights/litup-lighting/FL2201.png",
       "/images/lights/litup-lighting/FL2201.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   265: {
@@ -3290,7 +3211,7 @@ export const products = {
       "/images/lights/litup-lighting/FL2202.png",
       "/images/lights/litup-lighting/FL2202.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   266: {
@@ -3301,7 +3222,7 @@ export const products = {
       "/images/lights/litup-lighting/TL2113.png",
       "/images/lights/litup-lighting/TL2113.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   267: {
@@ -3312,7 +3233,7 @@ export const products = {
       "/images/lights/litup-lighting/TL2114.png",
       "/images/lights/litup-lighting/TL2114.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   268: {
@@ -3323,7 +3244,7 @@ export const products = {
       "/images/lights/litup-lighting/TL2115.png",
       "/images/lights/litup-lighting/TL2115.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   269: {
@@ -3334,7 +3255,7 @@ export const products = {
       "/images/lights/litup-lighting/TL2112.png",
       "/images/lights/litup-lighting/TL2112.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   270: {
@@ -3345,7 +3266,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT4209.png",
       "/images/lights/litup-lighting/LIT4209.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   271: {
@@ -3356,7 +3277,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT4210_BK+MC.png",
       "/images/lights/litup-lighting/LIT4210_BK+MC.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   272: {
@@ -3367,7 +3288,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT4230.png",
       "/images/lights/litup-lighting/LIT4230.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   273: {
@@ -3378,7 +3299,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT4232.png",
       "/images/lights/litup-lighting/LIT4232.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   274: {
@@ -3389,7 +3310,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT4251.png",
       "/images/lights/litup-lighting/LIT4251.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   275: {
@@ -3400,7 +3321,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT4251BK+MC.png",
       "/images/lights/litup-lighting/LIT4251BK+MC.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   276: {
@@ -3411,7 +3332,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3434.png",
       "/images/lights/litup-lighting/LIT3434.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   277: {
@@ -3422,7 +3343,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3442.png",
       "/images/lights/litup-lighting/LIT3442.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   278: {
@@ -3433,7 +3354,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3184.png",
       "/images/lights/litup-lighting/LIT3184.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   279: {
@@ -3444,7 +3365,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3186.png",
       "/images/lights/litup-lighting/LIT3186.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   280: {
@@ -3455,7 +3376,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3502.png",
       "/images/lights/litup-lighting/LIT3502.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   281: {
@@ -3466,7 +3387,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3531.png",
       "/images/lights/litup-lighting/LIT3531.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   282: {
@@ -3477,7 +3398,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3532.png",
       "/images/lights/litup-lighting/LIT3532.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   283: {
@@ -3488,7 +3409,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3931BK.png",
       "/images/lights/litup-lighting/LIT3931BK.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   284: {
@@ -3499,7 +3420,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3932.png",
       "/images/lights/litup-lighting/LIT3932.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   285: {
@@ -3510,7 +3431,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3933BK.png",
       "/images/lights/litup-lighting/LIT3933BK.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   286: {
@@ -3521,7 +3442,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3950.png",
       "/images/lights/litup-lighting/LIT3950.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   287: {
@@ -3532,7 +3453,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3951BK+MC_In_Stock.png",
       "/images/lights/litup-lighting/LIT3951BK+MC_In_Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   288: {
@@ -3543,7 +3464,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT4022.png",
       "/images/lights/litup-lighting/LIT4022.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   289: {
@@ -3554,7 +3475,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT4023.png",
       "/images/lights/litup-lighting/LIT4023.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   290: {
@@ -3565,7 +3486,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT4024.png",
       "/images/lights/litup-lighting/LIT4024.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   291: {
@@ -3576,7 +3497,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3630.png",
       "/images/lights/litup-lighting/LIT3630.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   292: {
@@ -3587,7 +3508,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3631.png",
       "/images/lights/litup-lighting/LIT3631.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   293: {
@@ -3598,7 +3519,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5833.png",
       "/images/lights/litup-lighting/LIT5833.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   294: {
@@ -3609,7 +3530,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5833SN+CH_In_stock.png",
       "/images/lights/litup-lighting/LIT5833SN+CH_In_stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   295: {
@@ -3620,7 +3541,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5834.png",
       "/images/lights/litup-lighting/LIT5834.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   296: {
@@ -3631,7 +3552,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5834SN+CH_1_In_stock.png",
       "/images/lights/litup-lighting/LIT5834SN+CH_1_In_stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   297: {
@@ -3642,7 +3563,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5835BK+CH_In_Stock.png",
       "/images/lights/litup-lighting/LIT5835BK+CH_In_Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   298: {
@@ -3653,7 +3574,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5841.jpeg",
       "/images/lights/litup-lighting/LIT5841.jpeg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   299: {
@@ -3664,7 +3585,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5841SN+CH_1_In_Stock.png",
       "/images/lights/litup-lighting/LIT5841SN+CH_1_In_Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   300: {
@@ -3675,7 +3596,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3001.png",
       "/images/lights/litup-lighting/LIT3001.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   301: {
@@ -3686,7 +3607,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3022.png",
       "/images/lights/litup-lighting/LIT3022.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   302: {
@@ -3697,7 +3618,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3023.png",
       "/images/lights/litup-lighting/LIT3023.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   303: {
@@ -3708,7 +3629,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3024.png",
       "/images/lights/litup-lighting/LIT3024.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   304: {
@@ -3719,7 +3640,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3201.png",
       "/images/lights/litup-lighting/LIT3201.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   305: {
@@ -3730,7 +3651,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3222.png",
       "/images/lights/litup-lighting/LIT3222.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   306: {
@@ -3741,7 +3662,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3223.png",
       "/images/lights/litup-lighting/LIT3223.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   307: {
@@ -3752,7 +3673,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3224.png",
       "/images/lights/litup-lighting/LIT3224.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   308: {
@@ -3763,7 +3684,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3806BK-MC.png",
       "/images/lights/litup-lighting/LIT3806BK-MC.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   309: {
@@ -3774,7 +3695,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3830BK-MC.png",
       "/images/lights/litup-lighting/LIT3830BK-MC.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   310: {
@@ -3785,7 +3706,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3833BK-MC.png",
       "/images/lights/litup-lighting/LIT3833BK-MC.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   311: {
@@ -3796,7 +3717,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5322.png",
       "/images/lights/litup-lighting/LIT5322.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   312: {
@@ -3807,7 +3728,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5323.png",
       "/images/lights/litup-lighting/LIT5323.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   313: {
@@ -3818,7 +3739,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5324.png",
       "/images/lights/litup-lighting/LIT5324.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   314: {
@@ -3829,7 +3750,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5325.png",
       "/images/lights/litup-lighting/LIT5325.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   315: {
@@ -3840,7 +3761,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT2901.png",
       "/images/lights/litup-lighting/LIT2901.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   316: {
@@ -3851,7 +3772,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT2922.png",
       "/images/lights/litup-lighting/LIT2922.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   317: {
@@ -3862,7 +3783,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT2923.png",
       "/images/lights/litup-lighting/LIT2923.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   318: {
@@ -3873,7 +3794,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT2924.png",
       "/images/lights/litup-lighting/LIT2924.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   319: {
@@ -3884,7 +3805,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT4510.png",
       "/images/lights/litup-lighting/LIT4510.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   320: {
@@ -3895,7 +3816,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5205_–_30K.png",
       "/images/lights/litup-lighting/LIT5205_–_30K.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   321: {
@@ -3906,7 +3827,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5205_–_40K.png",
       "/images/lights/litup-lighting/LIT5205_–_40K.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   322: {
@@ -3917,7 +3838,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5207_–_30K.png",
       "/images/lights/litup-lighting/LIT5207_–_30K.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   323: {
@@ -3928,7 +3849,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5207_–_40K.png",
       "/images/lights/litup-lighting/LIT5207_–_40K.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   324: {
@@ -3939,7 +3860,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5209_–_30K.png",
       "/images/lights/litup-lighting/LIT5209_–_30K.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   325: {
@@ -3950,7 +3871,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5209_–_40K.png",
       "/images/lights/litup-lighting/LIT5209_–_40K.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   326: {
@@ -3961,7 +3882,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5212.png",
       "/images/lights/litup-lighting/LIT5212.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   327: {
@@ -3972,7 +3893,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5212WHBK.png",
       "/images/lights/litup-lighting/LIT5212WHBK.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   328: {
@@ -3983,7 +3904,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5216WHBK.png",
       "/images/lights/litup-lighting/LIT5216WHBK.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   329: {
@@ -3994,7 +3915,7 @@ export const products = {
       "/images/lights/litup-lighting/NL1901_WH-5K-PIR.png",
       "/images/lights/litup-lighting/NL1901_WH-5K-PIR.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   330: {
@@ -4005,7 +3926,7 @@ export const products = {
       "/images/lights/litup-lighting/PART1912.png",
       "/images/lights/litup-lighting/PART1912.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   331: {
@@ -4016,7 +3937,7 @@ export const products = {
       "/images/lights/litup-lighting/UC1912.png",
       "/images/lights/litup-lighting/UC1912.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   332: {
@@ -4027,7 +3948,7 @@ export const products = {
       "/images/lights/litup-lighting/UC1915.png",
       "/images/lights/litup-lighting/UC1915.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   333: {
@@ -4038,7 +3959,7 @@ export const products = {
       "/images/lights/litup-lighting/UC1920.png",
       "/images/lights/litup-lighting/UC1920.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   334: {
@@ -4049,7 +3970,7 @@ export const products = {
       "/images/lights/litup-lighting/UC1924.png",
       "/images/lights/litup-lighting/UC1924.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   335: {
@@ -4060,7 +3981,7 @@ export const products = {
       "/images/lights/litup-lighting/UC1930.png",
       "/images/lights/litup-lighting/UC1930.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   336: {
@@ -4071,7 +3992,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5530.png",
       "/images/lights/litup-lighting/LIT5530.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   337: {
@@ -4082,7 +4003,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5531.png",
       "/images/lights/litup-lighting/LIT5531.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   338: {
@@ -4093,7 +4014,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5532.png",
       "/images/lights/litup-lighting/LIT5532.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   339: {
@@ -4104,7 +4025,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5533.png",
       "/images/lights/litup-lighting/LIT5533.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   340: {
@@ -4115,7 +4036,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5534BK+MC-CL.png",
       "/images/lights/litup-lighting/LIT5534BK+MC-CL.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   341: {
@@ -4126,7 +4047,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5731.png",
       "/images/lights/litup-lighting/LIT5731.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   342: {
@@ -4137,7 +4058,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5732.png",
       "/images/lights/litup-lighting/LIT5732.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   343: {
@@ -4148,7 +4069,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5741.png",
       "/images/lights/litup-lighting/LIT5741.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   344: {
@@ -4159,7 +4080,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5742.png",
       "/images/lights/litup-lighting/LIT5742.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   345: {
@@ -4170,7 +4091,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5422.png",
       "/images/lights/litup-lighting/LIT5422.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   346: {
@@ -4181,7 +4102,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5423.png",
       "/images/lights/litup-lighting/LIT5423.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   347: {
@@ -4192,7 +4113,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5424.png",
       "/images/lights/litup-lighting/LIT5424.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   348: {
@@ -4203,7 +4124,7 @@ export const products = {
       "/images/lights/litup-lighting/FL1804-30.jpg",
       "/images/lights/litup-lighting/FL1804-30.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   349: {
@@ -4214,7 +4135,7 @@ export const products = {
       "/images/lights/litup-lighting/FL1804-40.jpg",
       "/images/lights/litup-lighting/FL1804-40.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   350: {
@@ -4225,7 +4146,7 @@ export const products = {
       "/images/lights/litup-lighting/FL1806-30.jpg",
       "/images/lights/litup-lighting/FL1806-30.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   351: {
@@ -4236,7 +4157,7 @@ export const products = {
       "/images/lights/litup-lighting/FL1806-40.jpg",
       "/images/lights/litup-lighting/FL1806-40.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   352: {
@@ -4247,7 +4168,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT4824.png",
       "/images/lights/litup-lighting/LIT4824.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   353: {
@@ -4258,7 +4179,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT4826.png",
       "/images/lights/litup-lighting/LIT4826.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   354: {
@@ -4269,7 +4190,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT4828.png",
       "/images/lights/litup-lighting/LIT4828.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   355: {
@@ -4280,7 +4201,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT37186.png",
       "/images/lights/litup-lighting/LIT37186.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   356: {
@@ -4291,7 +4212,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT37188.png",
       "/images/lights/litup-lighting/LIT37188.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   357: {
@@ -4302,7 +4223,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT37198BK.png",
       "/images/lights/litup-lighting/LIT37198BK.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   358: {
@@ -4313,7 +4234,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT37286.png",
       "/images/lights/litup-lighting/LIT37286.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   359: {
@@ -4324,7 +4245,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT37288.png",
       "/images/lights/litup-lighting/LIT37288.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   360: {
@@ -4335,7 +4256,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT37384.png",
       "/images/lights/litup-lighting/LIT37384.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   361: {
@@ -4346,7 +4267,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT37388.png",
       "/images/lights/litup-lighting/LIT37388.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   362: {
@@ -4357,7 +4278,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT37398BK.png",
       "/images/lights/litup-lighting/LIT37398BK.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   363: {
@@ -4368,7 +4289,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT37484.png",
       "/images/lights/litup-lighting/LIT37484.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   364: {
@@ -4379,7 +4300,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT37486.png",
       "/images/lights/litup-lighting/LIT37486.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   365: {
@@ -4390,7 +4311,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT37786.png",
       "/images/lights/litup-lighting/LIT37786.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   366: {
@@ -4401,7 +4322,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT37788.png",
       "/images/lights/litup-lighting/LIT37788.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   367: {
@@ -4412,7 +4333,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT37798BK.jpg",
       "/images/lights/litup-lighting/LIT37798BK.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   368: {
@@ -4423,7 +4344,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT37888BK-SEN.png",
       "/images/lights/litup-lighting/LIT37888BK-SEN.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   369: {
@@ -4434,7 +4355,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT37986.png",
       "/images/lights/litup-lighting/LIT37986.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   370: {
@@ -4445,7 +4366,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT59186BK.png",
       "/images/lights/litup-lighting/LIT59186BK.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   371: {
@@ -4456,7 +4377,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT59186BK_(Copy).png",
       "/images/lights/litup-lighting/LIT59186BK_(Copy).png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   372: {
@@ -4467,7 +4388,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT59188BK.png",
       "/images/lights/litup-lighting/LIT59188BK.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   373: {
@@ -4478,7 +4399,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT50130.png",
       "/images/lights/litup-lighting/LIT50130.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   374: {
@@ -4489,7 +4410,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT50186.png",
       "/images/lights/litup-lighting/LIT50186.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   375: {
@@ -4500,7 +4421,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT50188.png",
       "/images/lights/litup-lighting/LIT50188.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   376: {
@@ -4511,7 +4432,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT60186.png",
       "/images/lights/litup-lighting/LIT60186.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   377: {
@@ -4522,7 +4443,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3951BK+MC_In_Stock.png",
       "/images/lights/litup-lighting/LIT3951BK+MC_In_Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   378: {
@@ -4533,7 +4454,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT6402.png",
       "/images/lights/litup-lighting/LIT6402.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   379: {
@@ -4544,7 +4465,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT6422BK-CRY-3CCT.png",
       "/images/lights/litup-lighting/LIT6422BK-CRY-3CCT.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   380: {
@@ -4555,7 +4476,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT6423BK-CRY-3CCT.png",
       "/images/lights/litup-lighting/LIT6423BK-CRY-3CCT.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   381: {
@@ -4566,7 +4487,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT6424BK-CRY-3CCT.png",
       "/images/lights/litup-lighting/LIT6424BK-CRY-3CCT.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   382: {
@@ -4577,7 +4498,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT6431.png",
       "/images/lights/litup-lighting/LIT6431.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   383: {
@@ -4588,7 +4509,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT6434BK-CRY-3CCT.png",
       "/images/lights/litup-lighting/LIT6434BK-CRY-3CCT.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   384: {
@@ -4599,7 +4520,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT6443.png",
       "/images/lights/litup-lighting/LIT6443.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   385: {
@@ -4610,7 +4531,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT6451BK-CRY-3CCT.png",
       "/images/lights/litup-lighting/LIT6451BK-CRY-3CCT.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   386: {
@@ -4621,7 +4542,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT6931BK+MC.png",
       "/images/lights/litup-lighting/LIT6931BK+MC.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   387: {
@@ -4632,7 +4553,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT6932BK+MC.png",
       "/images/lights/litup-lighting/LIT6932BK+MC.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   388: {
@@ -4643,7 +4564,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT6951BK+MC.png",
       "/images/lights/litup-lighting/LIT6951BK+MC.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   389: {
@@ -4654,7 +4575,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3122.png",
       "/images/lights/litup-lighting/LIT3122.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   390: {
@@ -4665,7 +4586,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3123.png",
       "/images/lights/litup-lighting/LIT3123.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   391: {
@@ -4676,7 +4597,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3124.png",
       "/images/lights/litup-lighting/LIT3124.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   392: {
@@ -4687,7 +4608,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3125.png",
       "/images/lights/litup-lighting/LIT3125.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   393: {
@@ -4698,7 +4619,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT6230.png",
       "/images/lights/litup-lighting/LIT6230.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   394: {
@@ -4709,7 +4630,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT6231.png",
       "/images/lights/litup-lighting/LIT6231.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   395: {
@@ -4720,7 +4641,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT6232.png",
       "/images/lights/litup-lighting/LIT6232.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   396: {
@@ -4731,7 +4652,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT6122_In_Stock.png",
       "/images/lights/litup-lighting/LIT6122_In_Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   397: {
@@ -4742,7 +4663,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT6123_In_Stock.png",
       "/images/lights/litup-lighting/LIT6123_In_Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   398: {
@@ -4753,7 +4674,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT6124_In_Stock.png",
       "/images/lights/litup-lighting/LIT6124_In_Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   399: {
@@ -4764,7 +4685,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT6125_In_Stock.png",
       "/images/lights/litup-lighting/LIT6125_In_Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   400: {
@@ -4775,7 +4696,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT7122BK-3CCT.png",
       "/images/lights/litup-lighting/LIT7122BK-3CCT.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   401: {
@@ -4786,7 +4707,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT7123BK-3CCT.png",
       "/images/lights/litup-lighting/LIT7123BK-3CCT.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   402: {
@@ -4797,7 +4718,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT7124BK-3CCT.png",
       "/images/lights/litup-lighting/LIT7124BK-3CCT.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   403: {
@@ -4808,7 +4729,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT70186BK.png",
       "/images/lights/litup-lighting/LIT70186BK.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   404: {
@@ -4819,7 +4740,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT70188BK.png",
       "/images/lights/litup-lighting/LIT70188BK.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   405: {
@@ -4830,7 +4751,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT63130_BK-CL.png",
       "/images/lights/litup-lighting/LIT63130_BK-CL.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   406: {
@@ -4841,7 +4762,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT63186_BK-CL.png",
       "/images/lights/litup-lighting/LIT63186_BK-CL.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   407: {
@@ -4852,7 +4773,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT63190_BK-CL.png",
       "/images/lights/litup-lighting/LIT63190_BK-CL.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   408: {
@@ -4863,7 +4784,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT63192_BK-CL.png",
       "/images/lights/litup-lighting/LIT63192_BK-CL.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   409: {
@@ -4874,7 +4795,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5205_–_30K.png",
       "/images/lights/litup-lighting/LIT5205_–_30K.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   410: {
@@ -4885,7 +4806,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5205_–_40K.png",
       "/images/lights/litup-lighting/LIT5205_–_40K.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   411: {
@@ -4896,7 +4817,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5207_–_30K.png",
       "/images/lights/litup-lighting/LIT5207_–_30K.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   412: {
@@ -4907,7 +4828,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5207_–_40K.png",
       "/images/lights/litup-lighting/LIT5207_–_40K.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   413: {
@@ -4918,7 +4839,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5209_–_30K.png",
       "/images/lights/litup-lighting/LIT5209_–_30K.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   414: {
@@ -4929,7 +4850,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5209_–_40K.png",
       "/images/lights/litup-lighting/LIT5209_–_40K.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   415: {
@@ -4940,7 +4861,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5212.png",
       "/images/lights/litup-lighting/LIT5212.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   416: {
@@ -4951,7 +4872,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5212WHBK.png",
       "/images/lights/litup-lighting/LIT5212WHBK.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   417: {
@@ -4962,7 +4883,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5216WHBK.png",
       "/images/lights/litup-lighting/LIT5216WHBK.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   418: {
@@ -4973,7 +4894,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT6731BK.png",
       "/images/lights/litup-lighting/LIT6731BK.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   419: {
@@ -4984,7 +4905,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT6732BK.png",
       "/images/lights/litup-lighting/LIT6732BK.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   420: {
@@ -4995,7 +4916,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT6733BK.png",
       "/images/lights/litup-lighting/LIT6733BK.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   421: {
@@ -5006,7 +4927,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT72186BK-SD.png",
       "/images/lights/litup-lighting/LIT72186BK-SD.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   422: {
@@ -5017,7 +4938,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT72188BK-SD.png",
       "/images/lights/litup-lighting/LIT72188BK-SD.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   423: {
@@ -5028,7 +4949,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT2532.png",
       "/images/lights/litup-lighting/LIT2532.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   424: {
@@ -5039,7 +4960,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT2533BK+MC.png",
       "/images/lights/litup-lighting/LIT2533BK+MC.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   425: {
@@ -5050,7 +4971,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT2533SN+MC.png",
       "/images/lights/litup-lighting/LIT2533SN+MC.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   426: {
@@ -5061,7 +4982,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5833.png",
       "/images/lights/litup-lighting/LIT5833.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   427: {
@@ -5072,7 +4993,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5833SN+CH_In_stock.png",
       "/images/lights/litup-lighting/LIT5833SN+CH_In_stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   428: {
@@ -5083,7 +5004,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5834.png",
       "/images/lights/litup-lighting/LIT5834.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   429: {
@@ -5094,7 +5015,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5834SN+CH_1_In_stock.png",
       "/images/lights/litup-lighting/LIT5834SN+CH_1_In_stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   430: {
@@ -5105,7 +5026,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5835BK+CH_In_Stock.png",
       "/images/lights/litup-lighting/LIT5835BK+CH_In_Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   431: {
@@ -5116,7 +5037,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5841.jpeg",
       "/images/lights/litup-lighting/LIT5841.jpeg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   432: {
@@ -5127,7 +5048,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5841SN+CH_1_In_Stock.png",
       "/images/lights/litup-lighting/LIT5841SN+CH_1_In_Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   433: {
@@ -5138,7 +5059,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5731SN+MC_In-stock.png",
       "/images/lights/litup-lighting/LIT5731SN+MC_In-stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   434: {
@@ -5149,7 +5070,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5732SN+MC_In-stock.png",
       "/images/lights/litup-lighting/LIT5732SN+MC_In-stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   435: {
@@ -5160,7 +5081,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5741SN+MC_In-stock.png",
       "/images/lights/litup-lighting/LIT5741SN+MC_In-stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   436: {
@@ -5171,7 +5092,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT5742SN+MC_In-stock.png",
       "/images/lights/litup-lighting/LIT5742SN+MC_In-stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   437: {
@@ -5182,7 +5103,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT7609BK-GD-3CCT_In_Stock.png",
       "/images/lights/litup-lighting/LIT7609BK-GD-3CCT_In_Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   438: {
@@ -5193,7 +5114,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT7610BK-GD-5CCT_In_Stock.png",
       "/images/lights/litup-lighting/LIT7610BK-GD-5CCT_In_Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   439: {
@@ -5204,7 +5125,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT7632BK-GD-5CCT_In-Stock.png",
       "/images/lights/litup-lighting/LIT7632BK-GD-5CCT_In-Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   440: {
@@ -5215,7 +5136,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT7533BK+MC_In_Stock.png",
       "/images/lights/litup-lighting/LIT7533BK+MC_In_Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   441: {
@@ -5226,7 +5147,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT7536BK+MC_In_Stock.png",
       "/images/lights/litup-lighting/LIT7536BK+MC_In_Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   442: {
@@ -5237,7 +5158,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT7410BK-CRY_In_Stock.png",
       "/images/lights/litup-lighting/LIT7410BK-CRY_In_Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   443: {
@@ -5248,7 +5169,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT7410GD-CRY_In-Stock.png",
       "/images/lights/litup-lighting/LIT7410GD-CRY_In-Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   444: {
@@ -5259,7 +5180,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT7410SN-CRY_In-stock.png",
       "/images/lights/litup-lighting/LIT7410SN-CRY_In-stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   445: {
@@ -5270,7 +5191,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT7431BK-MC-CRY.png",
       "/images/lights/litup-lighting/LIT7431BK-MC-CRY.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   446: {
@@ -5281,7 +5202,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT7432BK-CRY_In_Stock.png",
       "/images/lights/litup-lighting/LIT7432BK-CRY_In_Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   447: {
@@ -5292,7 +5213,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT7432GD-CRY_In-Stock.png",
       "/images/lights/litup-lighting/LIT7432GD-CRY_In-Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   448: {
@@ -5303,7 +5224,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT7432SN-CRY_In-Stock.png",
       "/images/lights/litup-lighting/LIT7432SN-CRY_In-Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   449: {
@@ -5314,7 +5235,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT7434BK-CRY_In_Stock.png",
       "/images/lights/litup-lighting/LIT7434BK-CRY_In_Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   450: {
@@ -5325,7 +5246,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT7434GD-CRY_In-Stock.png",
       "/images/lights/litup-lighting/LIT7434GD-CRY_In-Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   451: {
@@ -5336,7 +5257,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT7434SN-CRYIn-Stock.png",
       "/images/lights/litup-lighting/LIT7434SN-CRYIn-Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   452: {
@@ -5347,7 +5268,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT7436BK-CRY_In-Stock.png",
       "/images/lights/litup-lighting/LIT7436BK-CRY_In-Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   453: {
@@ -5358,7 +5279,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT7451BK-MC-CRY.png",
       "/images/lights/litup-lighting/LIT7451BK-MC-CRY.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   454: {
@@ -5369,7 +5290,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT6822SN+BK-OP_In-stock.png",
       "/images/lights/litup-lighting/LIT6822SN+BK-OP_In-stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   455: {
@@ -5380,7 +5301,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT6830BK+GD-OP_In-stock.png",
       "/images/lights/litup-lighting/LIT6830BK+GD-OP_In-stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   456: {
@@ -5391,7 +5312,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT6834BK+GD-OP_In-stock.png",
       "/images/lights/litup-lighting/LIT6834BK+GD-OP_In-stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   457: {
@@ -5402,7 +5323,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT6835BK+GD-OPIn-Stock.png",
       "/images/lights/litup-lighting/LIT6835BK+GD-OPIn-Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   458: {
@@ -5413,7 +5334,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT6836BK+GD-OP_In-stock.png",
       "/images/lights/litup-lighting/LIT6836BK+GD-OP_In-stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   459: {
@@ -5424,7 +5345,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT6836SN+BK-OP_In-stock.png",
       "/images/lights/litup-lighting/LIT6836SN+BK-OP_In-stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   460: {
@@ -5435,7 +5356,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT4209.png",
       "/images/lights/litup-lighting/LIT4209.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   461: {
@@ -5446,7 +5367,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT4210_BK+MC.png",
       "/images/lights/litup-lighting/LIT4210_BK+MC.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   462: {
@@ -5457,7 +5378,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT4230.png",
       "/images/lights/litup-lighting/LIT4230.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   463: {
@@ -5468,7 +5389,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT4232.png",
       "/images/lights/litup-lighting/LIT4232.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   464: {
@@ -5479,7 +5400,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT4251.png",
       "/images/lights/litup-lighting/LIT4251.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   465: {
@@ -5490,7 +5411,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT4251BK+MC.png",
       "/images/lights/litup-lighting/LIT4251BK+MC.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   466: {
@@ -5501,7 +5422,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3330.png",
       "/images/lights/litup-lighting/LIT3330.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   467: {
@@ -5512,7 +5433,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3341.png",
       "/images/lights/litup-lighting/LIT3341.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   468: {
@@ -5523,7 +5444,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3342.png",
       "/images/lights/litup-lighting/LIT3342.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   469: {
@@ -5534,7 +5455,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT3342SN+MC.png",
       "/images/lights/litup-lighting/LIT3342SN+MC.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   470: {
@@ -5545,7 +5466,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT8323BK-CL-3CCT_In-Stock.png",
       "/images/lights/litup-lighting/LIT8323BK-CL-3CCT_In-Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   471: {
@@ -5556,7 +5477,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT8324BK-CL-3CCTIn-Stock.png",
       "/images/lights/litup-lighting/LIT8324BK-CL-3CCTIn-Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   472: {
@@ -5567,7 +5488,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT8210BK-CRY-3CCT_In-Stock.png",
       "/images/lights/litup-lighting/LIT8210BK-CRY-3CCT_In-Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   473: {
@@ -5578,7 +5499,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT8211BK-CRY-3CCT_In-Stock.png",
       "/images/lights/litup-lighting/LIT8211BK-CRY-3CCT_In-Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   474: {
@@ -5589,7 +5510,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT8122BK+MC_In-Stock.png",
       "/images/lights/litup-lighting/LIT8122BK+MC_In-Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   475: {
@@ -5600,7 +5521,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT8123BK+MC_In-Stock.png",
       "/images/lights/litup-lighting/LIT8123BK+MC_In-Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   476: {
@@ -5611,7 +5532,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT309-6-3000K.png",
       "/images/lights/litup-lighting/LIT309-6-3000K.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   477: {
@@ -5622,7 +5543,7 @@ export const products = {
       "/images/lights/litup-lighting/LITA19-10-3000KM.png",
       "/images/lights/litup-lighting/LITA19-10-3000KM.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   478: {
@@ -5633,7 +5554,7 @@ export const products = {
       "/images/lights/litup-lighting/LITA19-30K_PIR.jpg",
       "/images/lights/litup-lighting/LITA19-30K_PIR.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   479: {
@@ -5644,7 +5565,7 @@ export const products = {
       "/images/lights/litup-lighting/LITA19-6-3000K.png",
       "/images/lights/litup-lighting/LITA19-6-3000K.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   480: {
@@ -5655,7 +5576,7 @@ export const products = {
       "/images/lights/litup-lighting/LITA19-8-30K_DD.jpg",
       "/images/lights/litup-lighting/LITA19-8-30K_DD.jpg",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   481: {
@@ -5666,7 +5587,7 @@ export const products = {
       "/images/lights/litup-lighting/LITC35-4-3000K.png",
       "/images/lights/litup-lighting/LITC35-4-3000K.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   482: {
@@ -5677,7 +5598,7 @@ export const products = {
       "/images/lights/litup-lighting/LITE11-5-30K.png",
       "/images/lights/litup-lighting/LITE11-5-30K.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   483: {
@@ -5688,7 +5609,7 @@ export const products = {
       "/images/lights/litup-lighting/LITG16-6-3000K.png",
       "/images/lights/litup-lighting/LITG16-6-3000K.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   484: {
@@ -5699,7 +5620,7 @@ export const products = {
       "/images/lights/litup-lighting/LITG25-6-3000K.png",
       "/images/lights/litup-lighting/LITG25-6-3000K.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   485: {
@@ -5710,7 +5631,7 @@ export const products = {
       "/images/lights/litup-lighting/LITG4-5-30K.png",
       "/images/lights/litup-lighting/LITG4-5-30K.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   486: {
@@ -5721,7 +5642,7 @@ export const products = {
       "/images/lights/litup-lighting/LITG9-3-40K.png",
       "/images/lights/litup-lighting/LITG9-3-40K.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   487: {
@@ -5732,7 +5653,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT7729BK-CR_In-Stock.png",
       "/images/lights/litup-lighting/LIT7729BK-CR_In-Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
   488: {
@@ -5743,7 +5664,7 @@ export const products = {
       "/images/lights/litup-lighting/LIT7730BK-CRIn-Stock.png",
       "/images/lights/litup-lighting/LIT7730BK-CRIn-Stock.png",
     ],
-    tag: "New Arrivals",
+
     addDate: "11/17/2025",
   },
 };
