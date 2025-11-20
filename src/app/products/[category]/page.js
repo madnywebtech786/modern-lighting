@@ -149,6 +149,11 @@ export default function ProductCategoryPage({ params }) {
     }
   };
 
+  // --- SMALL FIX: compute the visible range for "Showing X - Y of Z products" ---
+  const startIdx = (page - 1) * itemsPerPage;
+  const showingFrom = filteredProducts.length === 0 ? 0 : startIdx + 1;
+  const showingTo = startIdx + visibleProducts.length;
+
   return (
     <>
       <div>
@@ -318,8 +323,7 @@ export default function ProductCategoryPage({ params }) {
             <div className="flex justify-between items-start px-4 gap-3 py-3 flex-col xl:flex-row">
               <p className="text-base md:text-lg xl:text-xl text-gray-700">
                 Showing{" "}
-                {visibleProducts.length > 0 ? visibleProducts.length : 0} of{" "}
-                {filteredProducts.length} products
+                {showingFrom} - {showingTo} of {filteredProducts.length} products
               </p>
 
               <div className="flex items-center gap-5 justify-end w-full lg:w-auto">

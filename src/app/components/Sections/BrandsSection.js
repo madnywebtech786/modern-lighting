@@ -12,6 +12,10 @@ export default function BrandsSection() {
       img: "/images/brands/Kendal-Logo.png",
       link: "/products/kendalLights",
     },
+      {
+      img: "/images/brands/artika-pro-logo.png",
+      link: "/products/artikaProLights",
+    },
   ];
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
