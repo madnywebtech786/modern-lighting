@@ -23,6 +23,12 @@ export default function BrandsSection() {
       name: "Artika Pro",
       tagline: "Professional Lighting",
     },
+     {
+      img: "/images/brands/canarm.png",
+      link: "/products/canarmLights",
+      name: "Canarm Lights",
+      tagline: "Value , Knowledge and quality",
+    },
     
   ];
 
