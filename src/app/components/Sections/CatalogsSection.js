@@ -3,35 +3,35 @@ import Image from "next/image";
 import Link from "next/link";
 import React from "react";
 
-export default function BrandsSection() {
+export default function CatalogsSection() {
   const brandsImages = [
     {
       img: "/images/brands/lit-up-logo.png",
-      link: "/products/litupLighting",
+      link: "https://lituplighting.ca/collections/",
       name: "Lit-Up Lighting",
       tagline: "Illuminate Your Space",
     },
     {
       img: "/images/brands/Kendal-Logo.png",
-      link: "/products/kendalLights",
+      link: "https://kendallighting.com/fixture/",
       name: "Kendal Lights",
       tagline: "Modern Elegance",
     },
     {
       img: "/images/brands/artika-pro-logo.png",
-      link: "/products/artikaProLights",
+      link: "https://www.artikapro.ca/en/pro/products",
       name: "Artika Pro",
       tagline: "Professional Lighting",
     },
      {
       img: "/images/brands/canarm.png",
-      link: "/products/canarmLights",
+      link: "https://www.canarm.com/residential/lighting.html",
       name: "Canarm Lights",
       tagline: "Value , Knowledge and quality",
     },
       {
       img: "/images/brands/dainolite-logo.png",
-      link: "/products/dainolite",
+      link: "https://dainolite.ca/catalogues-media/",
       name: "Dainolite",
       tagline: "Bring your lighting visions to life",
     },
@@ -41,7 +41,7 @@ export default function BrandsSection() {
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 lg:gap-10">
       {brandsImages.map((item, index) => (
-        <Link href={item.link} key={index}>
+        <Link href={item.link} key={index} target="_blank">
           <div className="relative group h-full">
             {/* Futuristic card with gradient border */}
             <div className="relative bg-gradient-to-br from-gray-900 via-black to-gray-900 rounded-2xl overflow-hidden h-full min-h-[300px] md:min-h-[380px] transition-all duration-700 ease-out group-hover:scale-[1.03] group-hover:shadow-[0_20px_60px_rgba(251,205,14,0.4)]">
@@ -60,7 +60,7 @@ export default function BrandsSection() {
               {/* Dark overlay with button - slides up from bottom */}
               <div className="absolute inset-0 bg-black/70 backdrop-blur-sm translate-y-full group-hover:translate-y-0 transition-transform duration-700 ease-out flex items-center justify-center z-20">
                 <div className="px-10 py-4 bg-primary text-black font-bold rounded-full text-base shadow-[0_0_30px_rgba(251,205,14,0.8)] hover:shadow-[0_0_40px_rgba(251,205,14,1)] hover:scale-110 transition-all duration-300 cursor-pointer">
-                  View Collection
+                  View Complete Collection
                 </div>
               </div>
 

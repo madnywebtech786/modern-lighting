@@ -25,6 +25,10 @@ export default function NavBar() {
       name: "Brands",
       link: "/brands",
     },
+    {
+      name: "Catalogs",
+      link: "/catalogs",
+    },
     // {
     //   name: "FAQs",
     //   link: "/faqs",

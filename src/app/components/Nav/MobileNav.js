@@ -24,6 +24,10 @@ export default function MobileNav() {
       name: "Brands",
       link: "/brands",
     },
+     {
+      name: "Catalogs",
+      link: "/catalogs",
+    },
     // {
     //   name: "FAQs",
     //   link: "/faqs",
